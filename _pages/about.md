@@ -15,9 +15,9 @@ redirect_from:
 
 Education
 ======
-* B.A. in Data Science, University of California Berkeley, 2025-2029
+* B.A. in Data Science, University of California Berkeley, 2025 - 2029
   * 4.0 GPA
-* High School Diploma, California High School (San Ramon), 2021-2025
+* High School Diploma, California High School (San Ramon), 2021 - 2025
   * 4.52 GPA
 
 Experience
