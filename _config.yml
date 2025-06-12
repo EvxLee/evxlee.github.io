@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Evan Lee"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Incoming Freshman At UC Berkeley Studying Data Science"
   location         : "Earth"
   employer         : "UC Berkeley"
   uri              : # URL
@@ -36,7 +36,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
