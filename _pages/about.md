@@ -32,3 +32,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+What I Am Learning Right Now (As Of 06/13/25)
+======
+* Skill 1
