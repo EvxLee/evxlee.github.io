@@ -11,7 +11,7 @@ redirect_from:
 
 🔬 My interests are AI and Machine Learning
 
-🏀 Some of my hobbies include: Sports (Playing & Watching), Hiking, Traveling, and Eating new foods!
+🌟 Some of my hobbies include: 🏀 Basketball, Soccer, Hiking, Traveling, Video Games, Working Out, and Trying New Foods! Feel Free To Reach Out To Me
 
 Education
 ======
