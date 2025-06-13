@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi There, I'm Evan, a student majoring in Data Science at UC Berkeley!
+👋 Hello There, I'm Evan, a student majoring in Data Science at UC Berkeley!
 
 🔬 My interests are AI and Machine Learning
 
