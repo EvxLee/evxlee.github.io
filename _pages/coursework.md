@@ -1,3 +1,4 @@
+---
 title: "Technical Coursework"
 permalink: /coursework/
 layout: single
