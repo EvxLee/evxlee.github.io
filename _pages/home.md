@@ -1,8 +1,8 @@
 ---
 title: "Welcome"
-permalink: /home/
+permalink: /
 layout: single
-author_profile: false
+author_profile: true
 ---
 
 Hello, I am Nicolas Reed. I am an EECS (Electrical Engineering & Computer Sciences) student at UC Berkeley with experience in systems and hardware.

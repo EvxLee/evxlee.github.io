@@ -1,6 +1,6 @@
 main:
   - title: "Home"
-    url: /home/
+    url: /
   - title: "Resume"
     url: /assets/images/Resume.pdf
   - title: "Coursework"
