@@ -13,18 +13,6 @@
 
 /* Hide the FEED section in the footer */
 .page__footer-follow,
-.feed-label,
-.page__footer .feed-subscribe,
-.page__footer-follow .social-icons,
-nav.social-navigation,
-.footer-feed-links,
-.feed-icon {
-  display: none !important;
-}
-
-/* Hide any RSS related links */
-a[href*="feed.xml"],
-a[href*="/feed/"],
-a[href*="atom.xml"] {
+.feed-label {
   display: none !important;
 } 
