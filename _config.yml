@@ -55,7 +55,7 @@ plugins:
 
 author:
   name   : "Evan Lee"
-  avatar : "/assets/images/profile2.png"
+  avatar : "/assets/images/profile.jpg"
   bio    : ""
   links:
     - label: "Email"
