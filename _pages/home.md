@@ -1,6 +1,6 @@
 ---
 title: "Welcome"
-permalink: /
+permalink: /home/
 layout: single
 author_profile: false
 ---
