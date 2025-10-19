@@ -16,6 +16,7 @@ author_profile: true
 ### Fall 2025 
 - **CS 61A**: [Structure and Interpretation of Computer Programs](https://cs61a.org) [TBD]
 - **Math 54**: Multivariable Calculus [TBD]
+- **Data 198**: [Introduction to Real World Data Science](https://dssdecal.org/fa25/) [TBD]
 
 ### Summer 2024
 - **Data C8**: [Foundations of Data Science](https://www.data8.org/su24/) [A]
