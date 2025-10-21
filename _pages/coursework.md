@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 ### Spring 2026 (Tentative)
-- **Data 100**: Principles and Te=chniques of Data Science
+- **Data 100**: Principles and Techniques of Data Science
 - **CS 61B**: Great Ideas in Computer Architecture (Machine Structures)
 - **Math 53**: Multivariable Calculus
 
