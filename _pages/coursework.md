@@ -10,7 +10,7 @@ author_profile: true
 ---
 ### Spring 2026 (Tentative)
 - **DATA C100**: Principles and Techniques of Data Science
-- **COMPSCI 61B**: Great Ideas in Computer Architecture (Machine Structures)
+- **COMPSCI 61B**: Data Structures
 - **COGSCI 1**: Introduction to Cognitive Science
 - **UGBA 10X**: Foundations of Business
 - **IOER 198**: Introduction to Quantitative Finance
