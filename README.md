@@ -1,2 +1,3 @@
-# Hello, this is Evan Lee's personal website repository. Access the personal website with the URL link: https://evxlee.github.io/
-Feel free to fork this repoistory to make your own website with this simple but nice layout.
+# Access the personal website with link: https://evxlee.github.io/
+Hello, this is Evan Lee's personal website repository. 
+Feel free to fork this repository to make your own personal website with this simple nice layout!
