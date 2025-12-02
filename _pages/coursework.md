@@ -11,7 +11,8 @@ author_profile: true
 ### Spring 2026 (Tentative)
 - **Data 100**: Principles and Techniques of Data Science
 - **CS 61B**: Great Ideas in Computer Architecture (Machine Structures)
-- **Math 53**: Multivariable Calculus
+- **CogSci 1**: Introduction to Cognitive Science
+- **UGBA 10X**: Foundations of Business
 
 ### Fall 2025 
 - **CS 61A**: [Structure and Interpretation of Computer Programs](https://cs61a.org) [TBD]
