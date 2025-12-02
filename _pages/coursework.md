@@ -17,7 +17,7 @@ author_profile: true
 
 ### Fall 2025 
 - **COMPSCI 61A**: [Structure and Interpretation of Computer Programs](https://cs61a.org) [TBD]
-- **MATH 54**: Linear Algebra and Differential Equations
+- **MATH 54**: Linear Algebra and Differential Equations [TBD]
 - **DATA 198**: [Introduction to Real World Data Science](https://dssdecal.org/fa25/) [TBD]
 
 ### Summer 2024
