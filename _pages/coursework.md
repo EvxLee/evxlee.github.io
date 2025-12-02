@@ -13,6 +13,7 @@ author_profile: true
 - **CS 61B**: Great Ideas in Computer Architecture (Machine Structures)
 - **CogSci 1**: Introduction to Cognitive Science
 - **UGBA 10X**: Foundations of Business
+- **IOER 198**: Introduction to Quantitative Finance
 
 ### Fall 2025 
 - **CS 61A**: [Structure and Interpretation of Computer Programs](https://cs61a.org) [TBD]
