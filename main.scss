@@ -1,0 +1,61 @@
+---
+---
+
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";
+
+/* Responsive, circular, extra large avatar */
+.sidebar .author__avatar {
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  width: 100% !important;
+  max-width: 300px !important;
+  height: 300px !important;
+  border-radius: 50%;
+  overflow: hidden;
+  background: #fff;
+  margin: 0 auto 1em;
+}
+
+.sidebar .author__avatar img {
+  width: 100% !important;
+  max-width: 300px !important;
+  height: 300px !important;
+  max-height: 300px !important;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  border: 4px solid #fff;
+}
+
+@media (min-width: 64em) {
+  .sidebar .author__avatar {
+    width: 100% !important;
+    max-width: 400px !important;
+    height: 400px !important;
+  }
+  .sidebar .author__avatar img {
+    width: 100% !important;
+    max-width: 400px !important;
+    height: 400px !important;
+    max-height: 400px !important;
+    border-width: 6px;
+  }
+}
+
+@media (min-width: 80em) {
+  .sidebar .author__avatar {
+    width: 100% !important;
+    max-width: 500px !important;
+    height: 500px !important;
+  }
+  .sidebar .author__avatar img {
+    width: 100% !important;
+    max-width: 500px !important;
+    height: 500px !important;
+    max-height: 500px !important;
+    border-width: 6px;
+  }
+}
+

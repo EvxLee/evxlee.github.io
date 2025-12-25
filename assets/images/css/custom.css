@@ -11,6 +11,81 @@
 
 /* Keep the author name visible - don't hide .author__name */ 
 
+/* Responsive, circular, extra large avatar - make profile picture bigger */
+.sidebar .author__avatar,
+.author__avatar,
+.sidebar .author__avatar-wrapper .author__avatar {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 100% !important;
+  max-width: 300px !important;
+  height: 300px !important;
+  min-width: 300px !important;
+  min-height: 300px !important;
+  border-radius: 50% !important;
+  overflow: hidden !important;
+  background: #fff !important;
+  margin: 0 auto 1em !important;
+}
+
+.sidebar .author__avatar img,
+.author__avatar img,
+.sidebar .author__avatar-wrapper .author__avatar img {
+  width: 100% !important;
+  max-width: 300px !important;
+  min-width: 300px !important;
+  height: 300px !important;
+  min-height: 300px !important;
+  max-height: 300px !important;
+  object-fit: cover !important;
+  border-radius: 50% !important;
+  display: block !important;
+  border: 4px solid #fff !important;
+}
+
+@media (min-width: 64em) {
+  .sidebar .author__avatar,
+  .author__avatar,
+  .sidebar .author__avatar-wrapper .author__avatar {
+    max-width: 400px !important;
+    min-width: 400px !important;
+    height: 400px !important;
+    min-height: 400px !important;
+  }
+  .sidebar .author__avatar img,
+  .author__avatar img,
+  .sidebar .author__avatar-wrapper .author__avatar img {
+    max-width: 400px !important;
+    min-width: 400px !important;
+    height: 400px !important;
+    min-height: 400px !important;
+    max-height: 400px !important;
+    border-width: 6px !important;
+  }
+}
+
+@media (min-width: 80em) {
+  .sidebar .author__avatar,
+  .author__avatar,
+  .sidebar .author__avatar-wrapper .author__avatar {
+    max-width: 500px !important;
+    min-width: 500px !important;
+    height: 500px !important;
+    min-height: 500px !important;
+  }
+  .sidebar .author__avatar img,
+  .author__avatar img,
+  .sidebar .author__avatar-wrapper .author__avatar img {
+    max-width: 500px !important;
+    min-width: 500px !important;
+    height: 500px !important;
+    min-height: 500px !important;
+    max-height: 500px !important;
+    border-width: 6px !important;
+  }
+}
+
 /* Hide the FEED section in the footer */
 .page__footer-follow,
 .feed-label {
