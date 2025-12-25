@@ -5,15 +5,13 @@ layout: single
 author_profile: true
 ---
 
-**GPA**: 4.00 / 4.00
 
 ---
-### Spring 2026 (Tentative)
+### Spring 2026
 - **DATA C100**: Principles and Techniques of Data Science
 - **COMPSCI 61B**: Data Structures
 - **COGSCI 1**: Introduction to Cognitive Science
-- **UGBA 10X**: Foundations of Business
-- **IOER 198**: Introduction to Quantitative Finance
+- **LS 22**: Sense and Sensibility and Science
 
 ### Fall 2025 
 - **COMPSCI 61A**: [Structure and Interpretation of Computer Programs](https://cs61a.org) [TBD]
