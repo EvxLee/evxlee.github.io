@@ -8,8 +8,8 @@ author_profile: true
 
 ---
 ### Spring 2026
-- **DATA C100**: Principles and Techniques of Data Science
-- **COMPSCI 61B**: Data Structures
+- **DATA C100**: [Principles and Techniques of Data Science](https://ds100.org/sp26/)
+- **COMPSCI 61B**: [Data Structures](https://sp26.datastructur.es/)
 - **COGSCI 1**: Introduction to Cognitive Science
 - **LS 22**: Sense and Sensibility and Science
 
