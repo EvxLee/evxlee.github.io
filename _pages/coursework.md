@@ -7,16 +7,19 @@ author_profile: true
 
 
 ---
+
+### Fall 2027 (Tentative)
+- **COMPSCI 70**: Discrete Math and Probability Theory
+- **UGBA 142**: Advanced Business Analytics
+
 ### Spring 2026
 - **DATA C100**: [Principles and Techniques of Data Science](https://ds100.org/sp26/)
 - **COMPSCI 61B**: [Data Structures](https://sp26.datastructur.es/)
 - **COGSCI 1**: Introduction to Cognitive Science
-- **LS 22**: Sense and Sensibility and Science
 
 ### Fall 2025 
 - **COMPSCI 61A**: [Structure and Interpretation of Computer Programs](https://cs61a.org)
 - **MATH 54**: Linear Algebra and Differential Equations
-- **DATA 198**: [Introduction to Real World Data Science](https://dssdecal.org/fa25/)
 
 ### Summer 2024 (Berkeley Pre-College Scholars)
 - **DATA C8**: [Foundations of Data Science](https://www.data8.org/su24/) 
