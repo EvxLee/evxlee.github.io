@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-Hello, my name is Evan Lee. I'm from the East Bay (San Ramon) and I'm Taiwanese.
+Hello, my name is Evan Lee. I'm from the East Bay (San Ramon) and I'm Taiwanese and Hong Kongese.
 
 I'm a current freshman at UC Berkeley studying Data Science with a domain emphasis in Business and Industrial Analytics. I plan on double majoring in Analytics (formerly ORMS) with a concentration in Analytics in Industrial and Business Systems.
 
