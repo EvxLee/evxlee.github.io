@@ -8,14 +8,14 @@ author_profile: true
 
 ---
 
-### Fall 2027 (Tentative)
+### Fall 2027
 - **COMPSCI 70**: Discrete Math and Probability Theory
-- **UGBA 142**: Advanced Business Analytics
+- **UGBA 104**: Introduction to Business Analytics
+- **Data C104**: Human Contexts and Ethics of Data
 
 ### Spring 2026
 - **DATA C100**: [Principles and Techniques of Data Science](https://ds100.org/sp26/)
 - **COMPSCI 61B**: [Data Structures](https://sp26.datastructur.es/)
-- **COGSCI 1**: Introduction to Cognitive Science
 
 ### Fall 2025 
 - **COMPSCI 61A**: [Structure and Interpretation of Computer Programs](https://cs61a.org)
