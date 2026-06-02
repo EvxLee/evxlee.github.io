@@ -5,13 +5,23 @@ layout: single
 author_profile: true
 ---
 
-Hello, my name is Evan Lee. I'm from the East Bay (San Ramon) and I'm Taiwanese and Hong Kongese.
+Hello, I'm Evan Lee. I'm from the East Bay (San Ramon) with roots in Taiwan 🇹🇼 & Hong Kong 🇭🇰.
 
-I'm a current freshman at UC Berkeley studying Data Science with a domain emphasis in Business and Industrial Analytics. I plan on double majoring in Analytics (formerly ORMS) with a concentration in Analytics in Industrial and Business Systems.
+I'm an undergraduate (incoming sophomore) student at UC Berkeley majoring in Data Science with a domain emphasis in Business and Industrial Analytics. I'm pursuing a double major in Economics and a minor in Computer Science.
 
-Beyond academics, I love watching sports, watching anime, playing video games, playing poker, cooking, listening to music, playing basketball, and working out!
+I love to live spontaneously and pursue all opportunities that interest me. Feel free to learn how I made the most of my time at college through my [CV](/cv/)!
 
-Feel free to contact me at exl2813@berkeley.edu :)
+Beyond academics, I love to:
+- Work out
+- Play poker
+- Play video games
+- Play/watch basketball, soccer, and football
+- Cook & Eat new things
 
-View my [Resume](/assets/images/Resume.pdf) or learn more through my [Coursework](/coursework/) page.
- 
+Check out my [Fun](/fun/) page to see more of what I'm into!
+
+View my [Resume](/assets/resume.pdf) or learn more through my [Coursework](/coursework/) page.
+
+Feel free to reach out to me for anything!
+
+<p style="font-size: 0.78rem; color: #aaa; margin-top: 2rem;">Last updated: June 1, 2026</p>

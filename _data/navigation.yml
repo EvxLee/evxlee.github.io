@@ -2,6 +2,14 @@ main:
   - title: "Home"
     url: /
   - title: "Resume"
-    url: /assets/images/Resume.pdf
+    url: /assets/resume.pdf
   - title: "Coursework"
     url: /coursework/
+  - title: "CV"
+    url: /cv/
+  - title: "Projects"
+    url: /projects/
+  - title: "Fun"
+    url: /fun/
+  - title: "Gallery"
+    url: /gallery/
