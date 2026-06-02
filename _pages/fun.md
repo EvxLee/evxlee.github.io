@@ -134,7 +134,7 @@ A chronological look at the major games I've grinded. Use the arrows to flip thr
         </div>
         <h3 class="slide-title">Madden 22</h3>
         <div class="slide-rating">8/10</div>
-        <p class="slide-thoughts">Ultimate team grinder. OOP QB Derrick Henry & Isaiah Simmons </p>
+        <p class="slide-thoughts">Ultimate team grinder. OOP QB Derrick Henry & Isaiah Simmons.</p>
       </div>
 
       <div class="slide">
