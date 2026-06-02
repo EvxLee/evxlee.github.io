@@ -50,7 +50,6 @@ classes: wide
     </div>
   </div>
 
-
   <div class="project-card">
     <div class="project-header">
       <h3 class="project-title">Efficient Frontier</h3>
@@ -62,6 +61,16 @@ classes: wide
     </div>
   </div>
 
+  <div class="project-card">
+    <div class="project-header">
+      <h3 class="project-title">CapsuleDx</h3>
+      <a class="project-github" href="https://colab.research.google.com/drive/1-bXlW8Q1fiX6VBu5v-NBPpSm3bd-sDno?authuser=2" target="_blank">GitHub →</a>
+    </div>
+    <p class="project-date">Jan 2026</p>
+    <p class="project-desc">Capsule Network project using chest X-ray image dataset to develop a classification model that can accurattely distinguish between COVID-19 positive and negative cases.</p>
+    <div class="project-tags">
+    </div>
+  </div>
 
   <div class="project-card">
     <div class="project-header">
@@ -74,7 +83,6 @@ classes: wide
     </div>
   </div>
 
-
   <div class="project-card">
     <div class="project-header">
       <h3 class="project-title">LyricCal</h3>
@@ -85,7 +93,6 @@ classes: wide
     <div class="project-tags">
     </div>
   </div>
-
 
   <div class="project-card">
     <div class="project-header">
