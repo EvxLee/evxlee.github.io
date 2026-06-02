@@ -7,7 +7,7 @@ author_profile: true
 
 Hello, I'm Evan Lee. I'm from the East Bay (San Ramon) with roots in Taiwan 🇹🇼 & Hong Kong 🇭🇰.
 
-I'm an undergraduate (incoming sophomore) student at UC Berkeley majoring in Data Science with a domain emphasis in Business and Industrial Analytics. I'm pursuing a double major in Economics and a minor in Computer Science.
+I'm an undergraduate (incoming sophomore) student at UC Berkeley studying Data Science with a domain emphasis in Business and Industrial Analytics. I'm pursuing a double major in Economics and a minor in Computer Science.
 
 I love to live spontaneously and pursue all opportunities that interest me. Feel free to learn how I made the most of my time at college through my [CV](/cv/)!
 

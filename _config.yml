@@ -20,6 +20,13 @@ github_username: EvxLee
 minimal_mistakes_skin: default
 search: false
 
+# Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-9R1SSM0Q0M"
+    anonymize_ip: false
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
