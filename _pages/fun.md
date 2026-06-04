@@ -76,6 +76,15 @@ A chronological look at the major games I've grinded. Use the arrows to flip thr
 
       <div class="slide">
         <div class="slide-logo">
+          <img src="/assets/images/game_logos/super_mario_odyssey.jpg" alt="Super Mario Odyssey">
+        </div>
+        <h3 class="slide-title">Super Mario Odyssey</h3>
+        <div class="slide-rating">8.5/10</div>
+        <p class="slide-thoughts">Fun great story, should make a odyssey 2.</p>
+      </div>
+
+      <div class="slide">
+        <div class="slide-logo">
           <img src="/assets/images/game_logos/codmw19.jpg" alt="Call of Duty Modern Warfare 2019">
         </div>
         <h3 class="slide-title">Call of Duty Modern Warfare 2019</h3>
@@ -206,8 +215,9 @@ A chronological look at the major games I've grinded. Use the arrows to flip thr
       <button class="slide-dot"></button>
       <button class="slide-dot"></button>
       <button class="slide-dot"></button>
+      <button class="slide-dot"></button>
     </div>
-    <span class="slide-counter">1 / 18</span>
+    <span class="slide-counter">1 / 19</span>
   </div>
 </div>
 
