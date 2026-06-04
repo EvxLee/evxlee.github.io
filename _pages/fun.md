@@ -76,7 +76,7 @@ A chronological look at the major games I've grinded. Use the arrows to flip thr
 
       <div class="slide">
         <div class="slide-logo">
-          <img src="/assets/images/game_logos/super_mario_odyssey.jpg" alt="Super Mario Odyssey">
+          <img src="/assets/images/game_logos/Super_Mario_Odyssey.jpg" alt="Super Mario Odyssey">
         </div>
         <h3 class="slide-title">Super Mario Odyssey</h3>
         <div class="slide-rating">8.5/10</div>
