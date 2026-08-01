@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /
   - title: "Resume"
-    url: /assets/resume.pdf
+    url: /resume/
   - title: "Coursework"
     url: /coursework/
   - title: "CV"
@@ -11,5 +11,3 @@ main:
     url: /projects/
   - title: "Fun"
     url: /fun/
-  - title: "Gallery"
-    url: /gallery/

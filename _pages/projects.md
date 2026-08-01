@@ -12,6 +12,29 @@ classes: wide
 
 <div class="project-grid">
 
+  <div class="project-card">
+    <div class="project-header">
+      <h3 class="project-title">PROJECT NAME</h3>
+      <a class="project-github" href="GITHUB_URL" target="_blank">GitHub →</a>
+    </div>
+    <p class="project-date">MONTH YEAR</p>
+    <p class="project-desc">One or two sentences: the problem it solved, then what you built.</p>
+    <div class="project-tags">
+      <span class="project-tag">TAG</span>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-header">
+      <h3 class="project-title">PROJECT NAME</h3>
+      <a class="project-github" href="GITHUB_URL" target="_blank">GitHub →</a>
+    </div>
+    <p class="project-date">MONTH YEAR</p>
+    <p class="project-desc">One or two sentences: the problem it solved, then what you built.</p>
+    <div class="project-tags">
+      <span class="project-tag">TAG</span>
+    </div>
+  </div>
 
    <div class="project-card">
     <div class="project-header">

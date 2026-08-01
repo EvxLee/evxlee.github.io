@@ -606,3 +606,107 @@
   font-size: 0.95rem;
   font-style: italic;
 }
+
+/* ─── Resume Page ─────────────────────────────────────── */
+.resume-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.4rem;
+  margin: 1.75rem auto 2.5rem;
+  max-width: 760px;
+}
+
+.resume-card {
+  border: 1px solid #e0e4e8;
+  border-radius: 10px;
+  padding: 1.75rem 1.5rem;
+  background: #fafbfc;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.55rem;
+  text-align: center;
+  text-decoration: none !important;
+  color: inherit;
+  transition: border-color 0.15s, box-shadow 0.15s, transform 0.15s;
+}
+
+.resume-card:hover,
+.resume-card:focus-visible {
+  border-color: #4a90d9;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+  transform: translateY(-2px);
+}
+
+.resume-icon {
+  font-size: 1.9rem;
+  line-height: 1;
+}
+
+.resume-card h3 {
+  margin: 0;
+  font-size: 1.02rem;
+  font-weight: 700;
+  color: #222;
+}
+
+.resume-card p {
+  margin: 0;
+  font-size: 0.86rem;
+  color: #666;
+  line-height: 1.55;
+}
+
+.resume-cta {
+  margin-top: 0.5rem;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #4a90d9;
+}
+
+@media (max-width: 600px) {
+  .resume-grid { grid-template-columns: 1fr; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .resume-card { transition: none; }
+  .resume-card:hover { transform: none; }
+}
+
+
+/* ─── Fun Section Tabs ────────────────────────────────── */
+.fun-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0 0 1.75rem;
+  padding-bottom: 0.85rem;
+  border-bottom: 1px solid #e0e4e8;
+}
+
+.fun-nav-link {
+  font-size: 0.86rem;
+  font-weight: 600;
+  color: #666;
+  text-decoration: none !important;
+  padding: 0.4rem 0.85rem;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.fun-nav-link:hover,
+.fun-nav-link:focus-visible {
+  background: #eef1f4;
+  color: #222;
+}
+
+.fun-nav-link.active {
+  background: #fafbfc;
+  border-color: #e0e4e8;
+  color: #4a90d9;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fun-nav-link { transition: none; }
+}
