@@ -59,8 +59,8 @@ fun_tab: sports
     <span class="fun-tag">Football</span>
     <span class="fun-tag">UFC (Casual)</span>
     <span class="fun-tag">Boxing (Casual)</span>
-    <span class="fun-tag">Valorant</span>
-    <span class="fun-tag">CS2</span>
+    <span class="fun-tag">Valorant (Esports)</span>
+    <span class="fun-tag">CS2 (Esports)</span>
   </div>
   <div class="sports-col">
     <h4>Sports I Play</h4>
@@ -70,6 +70,5 @@ fun_tab: sports
     <span class="fun-tag">Swimming</span>
     <span class="fun-tag">Flag Football</span>
     <span class="fun-tag">Bowling</span>
-    <span class="fun-tag">Badminton (Learning)</span>
   </div>
 </div>

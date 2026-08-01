@@ -22,14 +22,27 @@ A running record of everything that shaped my time at Berkeley, big and small.
 
 <ul class="cv-timeline">
 
-  <li class="cv-item">
+<li class="cv-item">
     <div class="cv-dot comp"></div>
     <div class="cv-item-body">
       <div class="cv-item-main">
         <span class="cv-badge comp">Event</span>
         <p class="cv-company">YC Startup School</p>
         <p class="cv-meta">July 2026 </p>        
-        <p class="cv-desc">Accepted into and will attend on July 25-26!</p>
+        <p class="cv-desc">Cool speaker/networking event. Heard good advice from Unicorn founders & Sam Altman.</p>
+      </div>
+      <div class="cv-logo-box"><img src="/assets/images/cv_logos/YC_logo.svg" alt="YC Startup School"></div>
+    </div>
+  </li>
+
+  <li class="cv-item">
+    <div class="cv-dot comp"></div>
+    <div class="cv-item-body">
+      <div class="cv-item-main">
+        <span class="cv-badge comp">Event</span>
+        <p class="cv-company">YC Startup School 2026/p>
+        <p class="cv-meta">July 2026 </p>        
+        <p class="cv-desc">Fun Larp event! Jokes aside, great event with cool stuff. Always fascinating to hear from Jensen Huang, Sam Altman, and other rich billionares. </p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/YC_logo.svg" alt="YC Startup School"></div>
     </div>
@@ -42,7 +55,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <span class="cv-badge comp">Competition</span>
         <p class="cv-company">UC Berkeley AI Hackathon 2026</p>
         <p class="cv-meta">June 2026</p>
-        <p class="cv-desc">Competing June 21-22!</p>
+        <p class="cv-desc">Attended to talk to with sponsors, will actually try on next CalHacks major hackathon!</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/ai_hackathon_logo.jpeg" alt="UC Berkeley AI Hackathon"></div>
     </div>
@@ -56,7 +69,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <p class="cv-company">Ithildin</p>
         <p class="cv-role">AI/ML Engineer</p>
         <p class="cv-meta">May 2026 – Present</p>
-        <p class="cv-desc">Berkeley SkyDeck Legal AI Startup. Building this summer!</p>
+        <p class="cv-desc">Berkeley SkyDeck Legal AI Startup.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/ithildinlogo.png" alt="Ithildin"></div>
     </div>

@@ -15,14 +15,14 @@ classes: wide
   <a class="resume-card" href="/assets/EvanLeeDS.pdf" target="_blank">
     <span class="resume-icon">📊</span>
     <h3>Data Science / ML</h3>
-    <p>Research, ML engineering, and data pipeline work. For data science, ML, and software roles.</p>
+    <p>For data science, ML/AI, and SWE roles.</p>
     <span class="resume-cta">View PDF →</span>
   </a>
 
   <a class="resume-card" href="/assets/EvanLeePM.pdf" target="_blank">
     <span class="resume-icon">🧭</span>
-    <h3>Product / GTM</h3>
-    <p>Customer discovery, product, and go-to-market work. For technical PM, forward deployed, and consulting roles.</p>
+    <h3>Product</h3>
+    <p>For tech PM/APM, GTM, FDE and Tech Consulting roles.</p>
     <span class="resume-cta">View PDF →</span>
   </a>
 

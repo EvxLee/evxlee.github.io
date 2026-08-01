@@ -9,7 +9,9 @@ Hello, I'm Evan Lee. I'm from the East Bay (San Ramon) with roots in Taiwan 🇹
 
 I'm an incoming sophomore at UC Berkeley studying Data Science (domain emphasis in Business & Industrial Analytics) and Economics, with a minor in Computer Science.
 
-I'm a generalist who is driven by things I'm passionate and excited about. I want to bridge my technical skills with high-stakes customer-facing work. I'm pursuing internship opportunities in Data Science, Machine Learning, Tech PM, GTM, and Tech Consulting.
+I'm a generalist who is driven by things I'm passionate and excited about. I want to bridge my technical skills with high-stakes customer-facing work. 
+
+I'm pursuing internship opportunities in Data Science, Machine Learning, Tech PM, GTM, and Tech Consulting.
 
 Feel free to learn how I make the most of my time at college through my [CV](/cv/)!
 
