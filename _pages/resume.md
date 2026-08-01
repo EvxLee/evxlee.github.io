@@ -15,14 +15,14 @@ classes: wide
   <a class="resume-card" href="/assets/EvanLeeDS.pdf" target="_blank">
     <span class="resume-icon">📊</span>
     <h3>Data Science / ML</h3>
-    <p>For data science, ML/AI, and SWE roles.</p>
+    <p>For Data Science, ML/AI, and SWE roles.</p>
     <span class="resume-cta">View PDF →</span>
   </a>
 
   <a class="resume-card" href="/assets/EvanLeePM.pdf" target="_blank">
     <span class="resume-icon">🧭</span>
     <h3>Product</h3>
-    <p>For tech PM/APM, GTM, FDE and Tech Consulting roles.</p>
+    <p>For Tech PM/APM, GTM, FDE and Tech Consulting roles.</p>
     <span class="resume-cta">View PDF →</span>
   </a>
 

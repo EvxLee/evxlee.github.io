@@ -30,6 +30,15 @@ A chronological look at the major games I've grinded. Use the arrows to flip thr
 
       <div class="slide">
         <div class="slide-logo">
+          <img src="/assets/images/game_logos/FIFA_16_cover.jpg" alt="Fifa 16">
+        </div>
+        <h3 class="slide-title">Fifa 16</h3>
+        <div class="slide-rating">9/10</div>
+        <p class="slide-thoughts">Played Fifa 16, 17, and 18. This was my favorite by far! Ultimate team legend & loved Fut Drafts!</p>
+      </div>
+
+      <div class="slide">
+        <div class="slide-logo">
           <img src="/assets/images/game_logos/Star_Wars_Battlefront_2015_box.jpg" alt="Battlefront 1">
         </div>
         <h3 class="slide-title">Battlefront 1</h3>
@@ -48,11 +57,11 @@ A chronological look at the major games I've grinded. Use the arrows to flip thr
 
       <div class="slide">
         <div class="slide-logo">
-          <img src="/assets/images/game_logos/FIFA_16_cover.jpg" alt="Fifa 16">
+          <img src="/assets/images/game_logos/overwatch1logo.jpg" alt="Overwatch">
         </div>
-        <h3 class="slide-title">Fifa 16</h3>
-        <div class="slide-rating">9/10</div>
-        <p class="slide-thoughts">Played Fifa 16, 17, and 18. This was my favorite by far! Ultimate team legend & loved Fut Drafts!</p>
+        <h3 class="slide-title">Overwatch</h3>
+        <div class="slide-rating">7.5/10</div>
+        <p class="slide-thoughts">Very fun game I grinded but I forgot most of the game sadly. Mained Roadhog, Bastion, Soldier, Pharah, Reaper, Torbjorn, Widow, McCree, and Lucio.</p>
       </div>
 
       <div class="slide">
@@ -78,7 +87,7 @@ A chronological look at the major games I've grinded. Use the arrows to flip thr
           <img src="/assets/images/game_logos/Super_Mario_Odyssey.jpg" alt="Super Mario Odyssey">
         </div>
         <h3 class="slide-title">Super Mario Odyssey</h3>
-        <div class="slide-rating">8.5/10</div>
+        <div class="slide-rating">8/10</div>
         <p class="slide-thoughts">Fun great story, should make a odyssey 2.</p>
       </div>
 
@@ -174,6 +183,15 @@ A chronological look at the major games I've grinded. Use the arrows to flip thr
 
       <div class="slide">
         <div class="slide-logo">
+          <img src="/assets/images/game_logos/overwatch2logo.webp" alt="Overwatch 2">
+        </div>
+        <h3 class="slide-title">Overwatch 2</h3>
+        <div class="slide-rating">6.5/10</div>
+        <p class="slide-thoughts">Played for < 1 month... nothing special. Moira, Zarya, and Sojourn one trick. World's best Moira! </p>
+      </div>
+
+      <div class="slide">
+        <div class="slide-logo">
           <img src="/assets/images/game_logos/cs2.jpg" alt="Counter-Strike 2">
         </div>
         <h3 class="slide-title">Counter-Strike 2</h3>
@@ -188,6 +206,15 @@ A chronological look at the major games I've grinded. Use the arrows to flip thr
         <h3 class="slide-title">Genshin Impact</h3>
         <div class="slide-rating">11/10</div>
         <p class="slide-thoughts">Iconic story & music, be grinding with sporadic month-long breaks.</p>
+      </div>
+
+      <div class="slide">
+        <div class="slide-logo">
+          <img src="/assets/images/game_logos/marvelrivalslogo.png" alt="Marvel Rivals">
+        </div>
+        <h3 class="slide-title">Marvel Rivals</h3>
+        <div class="slide-rating">8.5/10</div>
+        <p class="slide-thoughts">Equal to prime OW. Peaked GM3 at Season 0, haven't really played since. Peni Parker, Scarlet Witch, and Rocket Racoon One Trick!</p>
       </div>
 
     </div>
@@ -244,7 +271,7 @@ A look at the mobile games that got way too much screen time.
         </div>
         <h3 class="slide-title">Kingdom Rush</h3>
         <div class="slide-rating">9/10</div>
-        <p class="slide-thoughts">Dare I say better franchise than Bloons TD 5/6.Shame that each game is so expensive. Frontiers/Origins are the best by far.</p>
+        <p class="slide-thoughts">Dare I say better franchise than Bloons TD 5/6. Shame that each game is so expensive. Frontiers/Origins are the best by far.</p>
       </div>
 
       <div class="slide">

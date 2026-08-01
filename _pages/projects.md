@@ -12,27 +12,28 @@ classes: wide
 
 <div class="project-grid">
 
+
   <div class="project-card">
     <div class="project-header">
-      <h3 class="project-title">PROJECT NAME</h3>
+      <h3 class="project-title">Cohort X Task 1 (Change)</h3>
       <a class="project-github" href="GITHUB_URL" target="_blank">GitHub →</a>
     </div>
     <p class="project-date">MONTH YEAR</p>
     <p class="project-desc">One or two sentences: the problem it solved, then what you built.</p>
     <div class="project-tags">
-      <span class="project-tag">TAG</span>
+      <span class="project-tag"></span>
     </div>
   </div>
 
   <div class="project-card">
     <div class="project-header">
-      <h3 class="project-title">PROJECT NAME</h3>
-      <a class="project-github" href="GITHUB_URL" target="_blank">GitHub →</a>
+      <h3 class="project-title">Collina</h3>
+      <a class="project-github" href="https://github.com/EvxLee/Collina" target="_blank">GitHub →</a>
     </div>
-    <p class="project-date">MONTH YEAR</p>
-    <p class="project-desc">One or two sentences: the problem it solved, then what you built.</p>
+    <p class="project-date"> YEAR</p>
+    <p class="project-desc">Building a Debate AI Referee fun game! On pause but hope to finish.</p>
     <div class="project-tags">
-      <span class="project-tag">TAG</span>
+      <span class="project-tag"></span>
     </div>
   </div>
 
@@ -114,6 +115,7 @@ classes: wide
     <p class="project-date">Sep 2025 – Dec 2025</p>
     <p class="project-desc">Personalized song recommender that analyzes song mood and acoustic features to find mathematically most similar songs.</p>
     <div class="project-tags">
+      <span class="project-tag">NLP</span>
     </div>
   </div>
 

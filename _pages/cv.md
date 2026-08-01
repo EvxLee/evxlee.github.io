@@ -27,11 +27,11 @@ A running record of everything that shaped my time at Berkeley, big and small.
     <div class="cv-item-body">
       <div class="cv-item-main">
         <span class="cv-badge comp">Event</span>
-        <p class="cv-company">YC Startup School</p>
+        <p class="cv-company">Internapalooza 2026</p>
         <p class="cv-meta">July 2026 </p>        
         <p class="cv-desc">Cool speaker/networking event. Heard good advice from Unicorn founders & Sam Altman.</p>
       </div>
-      <div class="cv-logo-box"><img src="/assets/images/cv_logos/YC_logo.svg" alt="YC Startup School"></div>
+      <div class="cv-logo-box"><img src="/assets/images/cv_logos/interpalooza_logo.png" alt="Internapalooza 2026"></div>
     </div>
   </li>
 
@@ -44,7 +44,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <p class="cv-meta">July 2026 </p>        
         <p class="cv-desc">Fun Larp event! Jokes aside, great event with cool stuff. Always fascinating to hear from Jensen Huang, Sam Altman, and other rich billionares. </p>
       </div>
-      <div class="cv-logo-box"><img src="/assets/images/cv_logos/YC_logo.svg" alt="YC Startup School"></div>
+      <div class="cv-logo-box"><img src="/assets/images/cv_logos/YC_logo.svg" alt="YC Startup School 2026"></div>
     </div>
   </li>
 
@@ -108,8 +108,8 @@ A running record of everything that shaped my time at Berkeley, big and small.
     <div class="cv-item-body">
       <div class="cv-item-main">
         <span class="cv-badge work">Contract</span>
-        <p class="cv-company">LG Nova</p>
-        <p class="cv-role">Machine Learning Engineer</p>
+        <p class="cv-company">LG NOVA</p>
+        <p class="cv-role">Machine Learning Engineer (Contract)</p>
         <p class="cv-meta">Feb 2026 – May 2026</p>
         <p class="cv-desc">RAG pipeline to help team navigate startup portfolio data.</p>
       </div>

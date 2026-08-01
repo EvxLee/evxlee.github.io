@@ -1,9 +1,9 @@
 ---
-title: "Gallery"
+title: "Photos"
 permalink: /fun/
 layout: single
 author_profile: false
-fun_tab: gallery
+fun_tab: photos
 ---
 
 <link rel="stylesheet" href="/assets/css/custom.css">
@@ -12,7 +12,7 @@ fun_tab: gallery
 
 A collection of photos from things I love doing outside of school.
 
-## <span class="fun-section-icon">🍳</span> Cooking
+## <span class="fun-section-icon"></span> Fall 2025
 
 <div class="cooking-coming-soon">
   <span class="cooking-icon">📸</span>
