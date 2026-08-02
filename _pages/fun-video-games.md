@@ -60,8 +60,8 @@ A chronological look at the major games I've grinded. Use the arrows to flip thr
           <img src="/assets/images/game_logos/overwatch1logo.jpg" alt="Overwatch">
         </div>
         <h3 class="slide-title">Overwatch</h3>
-        <div class="slide-rating">7.5/10</div>
-        <p class="slide-thoughts">Very fun game I grinded but I forgot most of the game sadly. Mained Roadhog, Bastion, Soldier, Pharah, Reaper, Torbjorn, Widow, McCree, and Lucio.</p>
+        <div class="slide-rating">8/10</div>
+        <p class="slide-thoughts">Super fun but I completely forget everything about this game. Mained Roadhog, Bastion, Soldier, Pharah, Reaper, Torbjorn, Widow, McCree, and Lucio.</p>
       </div>
 
       <div class="slide">
