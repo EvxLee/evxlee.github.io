@@ -70,6 +70,22 @@
   margin-bottom: 2rem;
 }
 
+/* The rail is sized by the <ul>, so a trailing margin leaves it dangling
+   below the final card. End both flush with the last entry. */
+.cv-item:last-child {
+  margin-bottom: 0;
+}
+
+.cv-timeline:last-child {
+  margin-bottom: 0;
+}
+
+/* CV page only: close the gap between that last entry and the grey footer. */
+body:has(.cv-timeline) .page__meta,
+body:has(.cv-timeline) .page__footer {
+  margin-top: 0;
+}
+
 .cv-dot {
   position: absolute;
   left: 0;
@@ -462,6 +478,19 @@
   letter-spacing: 0.01em;
 }
 
+.slide-badges {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.4rem;
+  margin: 0 0 0.85rem;
+}
+
+/* Rating sits directly above the badges, so tighten the gap between them. */
+.slide-rating + .slide-badges {
+  margin-top: -0.5rem;
+}
+
 .slide-thoughts {
   font-size: 0.88rem;
   color: #555;
@@ -530,37 +559,7 @@
   color: #bbb;
 }
 
-/* ─── Anime / Shows List ──────────────────────────────────── */
-.anime-list {
-  margin: 0.75rem 0 1.5rem;
-}
-
-.anime-item {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 0.55rem 0;
-  border-bottom: 1px solid #eee;
-  gap: 1rem;
-}
-
-.anime-item:last-child {
-  border-bottom: none;
-}
-
-.anime-title {
-  font-size: 0.9rem;
-  color: #222;
-  font-weight: 500;
-}
-
-.anime-meta {
-  display: flex;
-  align-items: center;
-  gap: 0.6rem;
-  flex-shrink: 0;
-}
-
+/* ─── Anime / Shows ───────────────────────────────────────── */
 .anime-status {
   font-size: 0.72rem;
   padding: 2px 8px;
@@ -573,13 +572,6 @@
 .anime-status.watching  { background: #e3f2fd; color: #1565c0; }
 .anime-status.dropped   { background: #fce4ec; color: #c62828; }
 .anime-status.paused    { background: #fff3e0; color: #e65100; }
-
-.anime-stars {
-  font-size: 0.82rem;
-  color: #e6a817;
-  white-space: nowrap;
-  letter-spacing: 0.5px;
-}
 
 /* ─── Cooking Gallery ─────────────────────────────────────── */
 .cooking-coming-soon {

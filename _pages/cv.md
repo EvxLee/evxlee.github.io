@@ -22,16 +22,17 @@ A running record of everything that shaped my time at Berkeley, big and small.
 
 <ul class="cv-timeline">
 
-<li class="cv-item">
-    <div class="cv-dot comp"></div>
+  <li class="cv-item">
+    <div class="cv-dot edu"></div>
     <div class="cv-item-body">
       <div class="cv-item-main">
-        <span class="cv-badge comp">Event</span>
-        <p class="cv-company">Internapalooza 2026</p>
-        <p class="cv-meta">July 2026 </p>        
-        <p class="cv-desc">Cool speaker/networking event. Heard good advice from Unicorn founders & Sam Altman.</p>
+        <span class="cv-badge edu">Degree</span>
+        <p class="cv-company">University of California, Berkeley</p>
+        <p class="cv-role">Bachelor of Art Degree </p>
+        <p class="cv-meta">August 2025 - May 2029</p>
+        <p class="cv-desc">Data Science and Economics Major. Applying for Business Degree in 2027, will replace it w/ Econ if I get in.</p>
       </div>
-      <div class="cv-logo-box"><img src="/assets/images/cv_logos/interpalooza_logo.png" alt="Internapalooza 2026"></div>
+      <div class="cv-logo-box"><img src="/assets/images/cv_logos/berkeley_logo.webp" alt="UC Berkeley"></div>
     </div>
   </li>
 
@@ -40,8 +41,21 @@ A running record of everything that shaped my time at Berkeley, big and small.
     <div class="cv-item-body">
       <div class="cv-item-main">
         <span class="cv-badge comp">Event</span>
-        <p class="cv-company">YC Startup School 2026/p>
-        <p class="cv-meta">July 2026 </p>        
+        <p class="cv-company">Internapalooza 2026</p>
+        <p class="cv-meta">Jul 2026 </p>        
+        <p class="cv-desc">Cool speaker/networking event. Heard good advice from Unicorn founders & Sam Altman.</p>
+      </div>
+      <div class="cv-logo-box"><img src="/assets/images/cv_logos/interpalooza logo.png" alt="Internapalooza 2026"></div>
+    </div>
+  </li>
+
+  <li class="cv-item">
+    <div class="cv-dot comp"></div>
+    <div class="cv-item-body">
+      <div class="cv-item-main">
+        <span class="cv-badge comp">Event</span>
+        <p class="cv-company">YC Startup School 2026</p>
+        <p class="cv-meta">Jul 2026 </p>        
         <p class="cv-desc">Fun Larp event! Jokes aside, great event with cool stuff. Always fascinating to hear from Jensen Huang, Sam Altman, and other rich billionares. </p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/YC_logo.svg" alt="YC Startup School 2026"></div>
@@ -54,7 +68,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
       <div class="cv-item-main">
         <span class="cv-badge comp">Competition</span>
         <p class="cv-company">UC Berkeley AI Hackathon 2026</p>
-        <p class="cv-meta">June 2026</p>
+        <p class="cv-meta">Jun 2026</p>
         <p class="cv-desc">Attended to talk to with sponsors, will actually try on next CalHacks major hackathon!</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/ai_hackathon_logo.jpeg" alt="UC Berkeley AI Hackathon"></div>
@@ -68,7 +82,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <span class="cv-badge work">Internship</span>
         <p class="cv-company">Ithildin</p>
         <p class="cv-role">AI/ML Engineer</p>
-        <p class="cv-meta">May 2026 – Present</p>
+        <p class="cv-meta">Jun 2026 – Aug 2026</p>
         <p class="cv-desc">Berkeley SkyDeck Legal AI Startup.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/ithildinlogo.png" alt="Ithildin"></div>
@@ -82,7 +96,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <span class="cv-badge work">Internship</span>
         <p class="cv-company">Git Machine</p>
         <p class="cv-role">GTM Engineer</p>
-        <p class="cv-meta">May 2026 – Present</p>
+        <p class="cv-meta">Jun 2026 – Present</p>
         <p class="cv-desc">Berkeley SkyDeck Execution Intelligence Startup. Building this summer!</p>
       </div>
       <div class="cv-logo-box"></div>
@@ -124,7 +138,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <span class="cv-badge research">Research</span>
         <p class="cv-company">FactGrid Cuneiform</p>
         <p class="cv-role">NLP Researcher</p>
-        <p class="cv-meta">Advised by Dr. Adam Anderson · Feb 2026 – Jun 2026</p>
+        <p class="cv-meta">Advised by Dr. Adam Anderson · Jan 2026 – Apr 2026</p>
         <p class="cv-desc">Fine-tuning models to correct OCR errors on ancient Akkadian to support database.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/factgrid_cuneiform_logo.jpeg" alt="FactGrid Cuneiform"></div>
@@ -138,7 +152,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <span class="cv-badge research">Research</span>
         <p class="cv-company">UCSF Tech Lab</p>
         <p class="cv-role">Data Science Researcher</p>
-        <p class="cv-meta">Advised by Faris Raza · Jan 2026 – Present</p>
+        <p class="cv-meta">Advised by Faris Raza · Mar 2026 – Present</p>
         <p class="cv-desc">Conducting ML research on CGM data from AI-READI multimodal diabetes dataset.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/ucsf_logo.jpg" alt="UCSF Tech Lab"></div>
@@ -158,7 +172,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <span class="cv-badge comp">Competition</span>
         <p class="cv-company">AgentX – AgentBeats Competition</p>
         <p class="cv-role">Berkeley RDI</p>
-        <p class="cv-meta">Dec 2025 – Feb 2026</p>
+        <p class="cv-meta">Dec 2025 – Jan 2026</p>
         <p class="cv-desc">Built a Schema Merging Evaluation Agent. Finished 2nd place in Finance Track (sponsored by OpenAI). Currently writing an arXiv research paper on findings.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/berkeley_rdi_logo.jpeg" alt="Berkeley RDI"></div>

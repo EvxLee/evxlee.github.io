@@ -59,7 +59,7 @@ fun_tab: sports
     <span class="fun-tag">Football</span>
     <span class="fun-tag">UFC (Casual)</span>
     <span class="fun-tag">Boxing (Casual)</span>
-    <span class="fun-tag">Valorant (Esports)</span>
+    <span class="fun-tag">Valorant (Esports, NRG fan)</span>
     <span class="fun-tag">CS2 (Esports)</span>
   </div>
   <div class="sports-col">
