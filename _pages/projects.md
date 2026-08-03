@@ -15,10 +15,10 @@ classes: wide
 
   <div class="project-card">
     <div class="project-header">
-      <h3 class="project-title">Cohortex</h3>
+      <h3 class="project-title">CohortEx</h3>
       <a class="project-github" href="https://github.com/EvxLee/Cohortex" target="_blank">GitHub →</a>
     </div>
-    <p class="project-date">Jun 2026</p>
+    <p class="project-date">Jun 2026 - Jul 2026</p>
     <p class="project-desc">Automated pipeline that reads biomedical papers and extracts who was in the study: conditions, age range, sex, and eligibility rules, as structured data.</p>
     <div class="project-tags">
       <span class="project-tag">Prompt Optimization</span>
@@ -37,18 +37,6 @@ classes: wide
     </div>
   </div>
 
-   <div class="project-card">
-    <div class="project-header">
-      <h3 class="project-title">Byt5 Akkadian OCR Correction</h3>
-      <a class="project-github" href="https://github.com/EvxLee/Byt5-Akkadian-OCR-Correction" target="_blank">GitHub →</a>
-    </div>
-    <p class="project-date">Jan 2026 - Apr 2026</p>
-    <p class="project-desc">Fine-tuned a byte-level language model to fix OCR errors in scanned Akkadian cuneiform transliterations, cutting character error rate by 74% so texts can enter FactGrid's public database with less manual cleanup.</p>
-    <div class="project-tags">
-      <span class="project-tag">Fine-tuning</span>
-    </div>
-  </div>
-
   <div class="project-card">
     <div class="project-header">
       <h3 class="project-title">Acne Detection</h3>
@@ -58,6 +46,18 @@ classes: wide
     <p class="project-desc">Trained object detection models to localize acne lesions in facial photos, then built a classifier that had to identify acne in a completely different dermatology dataset it was never trained on.</p>
     <div class="project-tags">
       <span class="project-tag">Computer Vision</span>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-header">
+      <h3 class="project-title">Byt5 Akkadian OCR Correction</h3>
+      <a class="project-github" href="https://github.com/EvxLee/Byt5-Akkadian-OCR-Correction" target="_blank">GitHub →</a>
+    </div>
+    <p class="project-date">Jan 2026 - Apr 2026</p>
+    <p class="project-desc">Fine-tuned a byte-level language model to fix OCR errors in scanned Akkadian cuneiform transliterations, cutting character error rate by 74% so texts can enter FactGrid's public database with less manual cleanup.</p>
+    <div class="project-tags">
+      <span class="project-tag">Fine-tuning</span>
     </div>
   </div>
 
@@ -78,7 +78,7 @@ classes: wide
       <h3 class="project-title">Efficient Frontier</h3>
       <a class="project-github" href="https://github.com/EvxLee/Efficient-Frontier" target="_blank">GitHub →</a>
     </div>
-    <p class="project-date">Jan 2026</p>
+    <p class="project-date">Dec 2025</p>
     <p class="project-desc">Stock Time-Series Analysis & Portfolio Modeling. Data science and machine learning applications to financial market analysis using stock data from Yahoo Finance.</p>
     <div class="project-tags">
       <span class="project-tag">Time-Series Forecasting</span>
@@ -90,7 +90,7 @@ classes: wide
       <h3 class="project-title">CapsuleDx</h3>
       <a class="project-github" href="https://colab.research.google.com/drive/1-bXlW8Q1fiX6VBu5v-NBPpSm3bd-sDno?authuser=2" target="_blank">GitHub →</a>
     </div>
-    <p class="project-date">Jan 2026</p>
+    <p class="project-date">Dec 2025</p>
     <p class="project-desc">Capsule Network project using chest X-ray image dataset to develop a classification model that can accurately distinguish between COVID-19 positive and negative cases.</p>
     <div class="project-tags">
       <span class="project-tag">Neural Network</span>

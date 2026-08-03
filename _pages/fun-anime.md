@@ -24,9 +24,9 @@ Ranked from my highest rated to lowest. Use the arrows to flip through them.
           <img src="/assets/images/anime_logos/hxh_logo.jpg" alt="Hunter x Hunter">
         </div>
         <h3 class="slide-title">Hunter x Hunter</h3>
-        <div class="slide-rating">10/10</div>
+        <div class="slide-rating">11/10</div>
         <div class="slide-badges"><span class="anime-status completed">Completed</span></div>
-        <p class="slide-thoughts">Placeholder — why this one lands at the top for me.</p>
+        <p class="slide-thoughts">My goat show. Top 3 arcs for me is Hunter Exam, Yorknew City, and then Greed Island.</p>
       </div>
 
       <div class="slide">
@@ -34,9 +34,9 @@ Ranked from my highest rated to lowest. Use the arrows to flip through them.
           <img src="/assets/images/anime_logos/aot_logo.webp" alt="Attack on Titan">
         </div>
         <h3 class="slide-title">Attack on Titan</h3>
-        <div class="slide-rating">10/10</div>
+        <div class="slide-rating">11/10</div>
         <div class="slide-badges"><span class="anime-status completed">Completed</span></div>
-        <p class="slide-thoughts">Placeholder — a sentence on what made this one stick with me.</p>
+        <p class="slide-thoughts">Top 2 anime for me. Best story by far... Season 3 Part 2 is my favorite for sure.</p>
       </div>
 
       <div class="slide">
@@ -46,7 +46,7 @@ Ranked from my highest rated to lowest. Use the arrows to flip through them.
         <h3 class="slide-title">Demon Slayer</h3>
         <div class="slide-rating">10/10</div>
         <div class="slide-badges"><span class="anime-status completed">Completed</span></div>
-        <p class="slide-thoughts">Placeholder — a sentence on what made this one stick with me.</p>
+        <p class="slide-thoughts">Used to not really like but cannot deny greatness. Best visuals by far.</p>
       </div>
 
       <div class="slide">
@@ -56,7 +56,7 @@ Ranked from my highest rated to lowest. Use the arrows to flip through them.
         <h3 class="slide-title">Fullmetal Alchemist: Brotherhood</h3>
         <div class="slide-rating">10/10</div>
         <div class="slide-badges"><span class="anime-status completed">Completed</span></div>
-        <p class="slide-thoughts">Placeholder — a sentence on what made this one stick with me.</p>
+        <p class="slide-thoughts">Flawless anime, can't think of any criticism.</p>
       </div>
 
       <div class="slide">
@@ -66,7 +66,7 @@ Ranked from my highest rated to lowest. Use the arrows to flip through them.
         <h3 class="slide-title">Violet Evergarden</h3>
         <div class="slide-rating">10/10</div>
         <div class="slide-badges"><span class="anime-status completed">Completed</span></div>
-        <p class="slide-thoughts">Placeholder — a sentence on what made this one stick with me.</p>
+        <p class="slide-thoughts">Just a beautiful anime, dissapointed with the decision for no season 2 and movies instead.</p>
       </div>
 
       <div class="slide">
@@ -76,7 +76,7 @@ Ranked from my highest rated to lowest. Use the arrows to flip through them.
         <h3 class="slide-title">JoJo's Bizarre Adventure</h3>
         <div class="slide-rating">9/10</div>
         <div class="slide-badges"><span class="anime-status watching">Watching</span></div>
-        <p class="slide-thoughts">Placeholder — a sentence on what made this one stick with me.</p>
+        <p class="slide-thoughts">Most fun and creative anime of all time, Season 4, 5, and 7 are my favorites by far.</p>
       </div>
 
       <div class="slide">
@@ -86,7 +86,7 @@ Ranked from my highest rated to lowest. Use the arrows to flip through them.
         <h3 class="slide-title">One Piece</h3>
         <div class="slide-rating">8.5/10</div>
         <div class="slide-badges"><span class="anime-status watching">Watching</span></div>
-        <p class="slide-thoughts">Placeholder — a sentence on what made this one stick with me.</p>
+        <p class="slide-thoughts">Best world building and iconic fighting moments, haven't kept up with anime due to the worst pacing ever but still follow the manga.</p>
       </div>
 
       <div class="slide">
@@ -96,7 +96,7 @@ Ranked from my highest rated to lowest. Use the arrows to flip through them.
         <h3 class="slide-title">One Punch Man</h3>
         <div class="slide-rating">8.5/10</div>
         <div class="slide-badges"><span class="anime-status completed">Completed</span></div>
-        <p class="slide-thoughts">Placeholder — a sentence on what made this one stick with me.</p>
+        <p class="slide-thoughts">Would be higher but Season 3... Season 2 was goated.</p>
       </div>
 
       <div class="slide">
@@ -106,7 +106,7 @@ Ranked from my highest rated to lowest. Use the arrows to flip through them.
         <h3 class="slide-title">Naruto Franchise</h3>
         <div class="slide-rating">8/10</div>
         <div class="slide-badges"><span class="anime-status paused">Paused</span></div>
-        <p class="slide-thoughts">Placeholder — a sentence on why I stepped away from this one.</p>
+        <p class="slide-thoughts">Too many fillers and basic story, not biggest fan of Naruto Shippuden. Boruto isn't that bad though. </p>
       </div>
 
       <div class="slide">
@@ -116,7 +116,7 @@ Ranked from my highest rated to lowest. Use the arrows to flip through them.
         <h3 class="slide-title">Jujutsu Kaisen</h3>
         <div class="slide-rating">7.5/10</div>
         <div class="slide-badges"><span class="anime-status paused">Paused</span></div>
-        <p class="slide-thoughts">Placeholder — a sentence on why I stepped away from this one.</p>
+        <p class="slide-thoughts">Loved season 1 but quit after, don't know why. Probably should watch it again.</p>
       </div>
 
       <div class="slide">
@@ -126,7 +126,7 @@ Ranked from my highest rated to lowest. Use the arrows to flip through them.
         <h3 class="slide-title">Tokyo Revengers</h3>
         <div class="slide-rating">7.5/10</div>
         <div class="slide-badges"><span class="anime-status watching">Watching</span></div>
-        <p class="slide-thoughts">Placeholder — a sentence on what made this one stick with me.</p>
+        <p class="slide-thoughts">Loved the story but they handled anime after season 2 bad and the manga ending sucked.</p>
       </div>
 
       <div class="slide">
@@ -136,7 +136,7 @@ Ranked from my highest rated to lowest. Use the arrows to flip through them.
         <h3 class="slide-title">Dragon Ball Franchise</h3>
         <div class="slide-rating">7/10</div>
         <div class="slide-badges"><span class="anime-status completed">Completed</span></div>
-        <p class="slide-thoughts">Placeholder — a sentence on what made this one stick with me.</p>
+        <p class="slide-thoughts">Iconic anime, just don't like it when the main characters are just too OP.</p>
       </div>
 
       <div class="slide">
@@ -146,7 +146,7 @@ Ranked from my highest rated to lowest. Use the arrows to flip through them.
         <h3 class="slide-title">Tokyo Ghoul</h3>
         <div class="slide-rating">5.5/10</div>
         <div class="slide-badges"><span class="anime-status completed">Completed</span></div>
-        <p class="slide-thoughts">Placeholder — a sentence on why this one fell flat for me.</p>
+        <p class="slide-thoughts">Season 1 is a 9.5/10 but everything after sucks... sad to see.</p>
       </div>
 
       <div class="slide">
@@ -156,7 +156,7 @@ Ranked from my highest rated to lowest. Use the arrows to flip through them.
         <h3 class="slide-title">Solo Leveling</h3>
         <div class="slide-rating">5/10</div>
         <div class="slide-badges"><span class="anime-status completed">Completed</span></div>
-        <p class="slide-thoughts">Placeholder — a sentence on why this one fell flat for me.</p>
+        <p class="slide-thoughts">One Punch Man but 10x more corny and no focus on other characters except boring MC.</p>
       </div>
 
     </div>
