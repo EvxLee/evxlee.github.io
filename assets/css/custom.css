@@ -573,7 +573,36 @@ body:has(.cv-timeline) .page__footer {
 .anime-status.dropped   { background: #fce4ec; color: #c62828; }
 .anime-status.paused    { background: #fff3e0; color: #e65100; }
 
-/* ─── Cooking Gallery ─────────────────────────────────────── */
+/* ─── Photos ──────────────────────────────────────────────── */
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1.25rem;
+  margin: 1rem 0 2rem;
+}
+
+.photo-card {
+  margin: 0;
+  border: 1px solid #e0e4e8;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #fafbfc;
+}
+
+.photo-card img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+.photo-card figcaption {
+  padding: 0.65rem 0.85rem;
+  font-size: 0.82rem;
+  color: #666;
+  line-height: 1.5;
+}
+
 .cooking-coming-soon {
   display: flex;
   flex-direction: column;

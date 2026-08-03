@@ -18,8 +18,6 @@ A running record of everything that shaped my time at Berkeley, big and small.
 
 ---
 
-## 2026
-
 <ul class="cv-timeline">
 
   <li class="cv-item">
@@ -28,13 +26,19 @@ A running record of everything that shaped my time at Berkeley, big and small.
       <div class="cv-item-main">
         <span class="cv-badge edu">Degree</span>
         <p class="cv-company">University of California, Berkeley</p>
-        <p class="cv-role">Bachelor of Art Degree </p>
+        <p class="cv-role">Bachelor of Arts Degree </p>
         <p class="cv-meta">August 2025 - May 2029</p>
-        <p class="cv-desc">Data Science and Economics Major. Applying for Business Degree in 2027, will replace it w/ Econ if I get in.</p>
+        <p class="cv-desc">Data Science and Economics Double Major. Applying for Business Degree in 2027, will replace it w/ Econ if I get in.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/berkeley_logo.webp" alt="UC Berkeley"></div>
     </div>
   </li>
+
+</ul>
+
+## 2026
+
+<ul class="cv-timeline">
 
   <li class="cv-item">
     <div class="cv-dot comp"></div>
@@ -99,7 +103,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <p class="cv-meta">Jun 2026 – Present</p>
         <p class="cv-desc">Berkeley SkyDeck Execution Intelligence Startup. Building this summer!</p>
       </div>
-      <div class="cv-logo-box"></div>
+      <div class="cv-logo-box"><img src="/assets/images/cv_logos/gitmachine_logo.jpeg" alt="Git Machine"></div>
     </div>
   </li>
 
@@ -114,6 +118,20 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <p class="cv-desc">TBD</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/ucsf_logo.jpg" alt="UCSF"></div>
+    </div>
+  </li>
+
+  <li class="cv-item">
+    <div class="cv-dot research"></div>
+    <div class="cv-item-body">
+      <div class="cv-item-main">
+        <span class="cv-badge research">Research</span>
+        <p class="cv-company">UCSF Tech Lab</p>
+        <p class="cv-role">Data Science Researcher</p>
+        <p class="cv-meta">Advised by Faris Raza · Mar 2026 – Present</p>
+        <p class="cv-desc">Conducting ML research on CGM data from AI-READI multimodal diabetes dataset.</p>
+      </div>
+      <div class="cv-logo-box"><img src="/assets/images/cv_logos/ucsf_logo.jpg" alt="UCSF Tech Lab"></div>
     </div>
   </li>
 
@@ -145,20 +163,6 @@ A running record of everything that shaped my time at Berkeley, big and small.
     </div>
   </li>
 
-  <li class="cv-item">
-    <div class="cv-dot research"></div>
-    <div class="cv-item-body">
-      <div class="cv-item-main">
-        <span class="cv-badge research">Research</span>
-        <p class="cv-company">UCSF Tech Lab</p>
-        <p class="cv-role">Data Science Researcher</p>
-        <p class="cv-meta">Advised by Faris Raza · Mar 2026 – Present</p>
-        <p class="cv-desc">Conducting ML research on CGM data from AI-READI multimodal diabetes dataset.</p>
-      </div>
-      <div class="cv-logo-box"><img src="/assets/images/cv_logos/ucsf_logo.jpg" alt="UCSF Tech Lab"></div>
-    </div>
-  </li>
-
 </ul>
 
 ## 2025
@@ -176,20 +180,6 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <p class="cv-desc">Built a Schema Merging Evaluation Agent. Finished 2nd place in Finance Track (sponsored by OpenAI). Currently writing an arXiv research paper on findings.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/berkeley_rdi_logo.jpeg" alt="Berkeley RDI"></div>
-    </div>
-  </li>
-
-  <li class="cv-item">
-    <div class="cv-dot work"></div>
-    <div class="cv-item-body">
-      <div class="cv-item-main">
-        <span class="cv-badge work">Internship</span>
-        <p class="cv-company">Ergonosis</p>
-        <p class="cv-role">Data Engineer Intern</p>
-        <p class="cv-meta">Jan 2025 – Mar 2026</p>
-        <p class="cv-desc">Built Data Extraction layer for downstream analytics</p>
-      </div>
-      <div class="cv-logo-box"><img src="/assets/images/cv_logos/Ergonosis_logo.jpeg" alt="Ergonosis"></div>
     </div>
   </li>
 
@@ -217,6 +207,20 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <p class="cv-desc">Built EquiMatch, a college Matcher for a more equitable, educated future. Finished 3rd place.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/Datathon_logo.png" alt="Datathon for Social Good"></div>
+    </div>
+  </li>
+
+  <li class="cv-item">
+    <div class="cv-dot work"></div>
+    <div class="cv-item-body">
+      <div class="cv-item-main">
+        <span class="cv-badge work">Internship</span>
+        <p class="cv-company">Ergonosis</p>
+        <p class="cv-role">Data Engineer Intern</p>
+        <p class="cv-meta">Jan 2025 – Mar 2026</p>
+        <p class="cv-desc">Built Data Extraction layer for downstream analytics</p>
+      </div>
+      <div class="cv-logo-box"><img src="/assets/images/cv_logos/Ergonosis_logo.jpeg" alt="Ergonosis"></div>
     </div>
   </li>
 
