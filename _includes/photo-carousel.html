@@ -1,0 +1,42 @@
+{% assign sem = include.semester %}
+{% assign count = sem.photos | size %}
+<div class="photo-carousel" tabindex="0" aria-roledescription="carousel" aria-label="{{ sem.name }} photos">
+  <div class="photo-stage">
+    {% if count > 1 %}<button class="photo-btn prev" type="button" aria-label="Previous photo">&#8249;</button>{% endif %}
+    <div class="photo-frame">
+      {% for p in sem.photos %}
+      <figure class="photo-slide{% if forloop.first %} active{% endif %}"
+              data-full="/assets/images/photos/{{ sem.slug }}/{{ p.file }}">
+        <img src="/assets/images/photos/{{ sem.slug }}/{{ p.file }}"
+             alt="{{ sem.name }} — photo {{ forloop.index }} of {{ count }}"
+             {% unless forloop.first %}loading="lazy"{% endunless %} decoding="async">
+      </figure>
+      {% endfor %}
+    </div>
+    {% if count > 1 %}<button class="photo-btn next" type="button" aria-label="Next photo">&#8250;</button>{% endif %}
+  </div>
+
+  <div class="photo-caption-wrap">
+    {% for p in sem.photos %}
+    <p class="photo-caption{% if forloop.first %} active{% endif %}">{{ p.caption }}</p>
+    {% endfor %}
+  </div>
+
+  {% if count > 1 %}
+  <div class="photo-filmstrip" role="tablist" aria-label="{{ sem.name }} thumbnails">
+    {% for p in sem.photos %}
+    <button class="photo-thumb{% if forloop.first %} active{% endif %}" type="button"
+            role="tab" data-index="{{ forloop.index0 }}"
+            aria-label="Go to photo {{ forloop.index }}"
+            aria-selected="{% if forloop.first %}true{% else %}false{% endif %}">
+      <img src="/assets/images/photos/{{ sem.slug }}/thumbs/{{ p.file }}" alt="" loading="lazy" decoding="async">
+    </button>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <div class="photo-meta">
+    <span class="photo-counter">{% if count > 1 %}1 / {{ count }}{% endif %}</span>
+    <span class="photo-hint">{% if count > 1 %}oldest → newest · click a photo to enlarge{% else %}click the photo to enlarge{% endif %}</span>
+  </div>
+</div>

@@ -4,3 +4,6 @@ _site
 .jekyll-metadata
 Gemfile.lock
 .ruby-version
+
+# Full-resolution photo originals: kept locally, web-sized copies are committed
+assets/images/photos/_originals/

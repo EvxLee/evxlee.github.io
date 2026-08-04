@@ -574,33 +574,241 @@ body:has(.cv-timeline) .page__footer {
 .anime-status.paused    { background: #fff3e0; color: #e65100; }
 
 /* ─── Photos ──────────────────────────────────────────────── */
-.photo-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-  gap: 1.25rem;
-  margin: 1rem 0 2rem;
+/* One carousel per semester: a fixed-height stage (so mixed portrait and
+   landscape shots never shift the page), a filmstrip to jump around, and a
+   shared lightbox for the full-size view. */
+.photo-carousel {
+  margin: 1rem 0 2.5rem;
+  outline: none;
 }
 
-.photo-card {
-  margin: 0;
+.photo-carousel:focus-visible .photo-stage {
+  border-color: #4a90d9;
+  box-shadow: 0 0 0 2px rgba(74, 144, 217, 0.25);
+}
+
+.photo-stage {
+  position: relative;
+  height: clamp(300px, 56vh, 520px);
+  background: #f2f4f6;
   border: 1px solid #e0e4e8;
-  border-radius: 12px;
+  border-radius: 14px;
   overflow: hidden;
-  background: #fafbfc;
+  transition: border-color 0.15s, box-shadow 0.15s;
 }
 
-.photo-card img {
+.photo-frame {
+  width: 100%;
+  height: 100%;
+  cursor: zoom-in;
+}
+
+.photo-slide {
+  display: none;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.photo-slide.active {
+  display: flex;
+  animation: photoFade 0.25s ease;
+}
+
+@keyframes photoFade {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+.photo-slide img {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.photo-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 2;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  background: rgba(255, 255, 255, 0.88);
+  color: #444;
+  font-size: 1.5rem;
+  line-height: 1;
+  padding: 0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.15s, color 0.15s;
+}
+
+.photo-btn.prev { left: 0.7rem; }
+.photo-btn.next { right: 0.7rem; }
+
+.photo-btn:hover {
+  background: #fff;
+  color: #222;
+}
+
+.photo-caption-wrap {
+  margin: 0.75rem 0 0.6rem;
+}
+
+.photo-caption {
+  display: none;
+  font-size: 0.87rem;
+  color: #555;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.photo-caption.active { display: block; }
+
+.photo-filmstrip {
+  display: flex;
+  gap: 0.45rem;
+  overflow-x: auto;
+  padding-bottom: 0.4rem;
+  scroll-behavior: smooth;
+  scrollbar-width: thin;
+}
+
+.photo-thumb {
+  flex: 0 0 auto;
+  width: 66px;
+  height: 50px;
+  padding: 0;
+  border: 1px solid #e0e4e8;
+  border-radius: 7px;
+  overflow: hidden;
+  background: #fff;
+  cursor: pointer;
+  opacity: 0.55;
+  transition: opacity 0.15s, border-color 0.15s;
+}
+
+.photo-thumb img {
   display: block;
   width: 100%;
-  aspect-ratio: 4 / 3;
+  height: 100%;
   object-fit: cover;
 }
 
-.photo-card figcaption {
-  padding: 0.65rem 0.85rem;
-  font-size: 0.82rem;
-  color: #666;
-  line-height: 1.5;
+.photo-thumb:hover { opacity: 1; }
+
+.photo-thumb.active {
+  opacity: 1;
+  border-color: #4a90d9;
+  box-shadow: 0 0 0 1px #4a90d9;
+}
+
+.photo-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 0.5rem;
+  font-size: 0.75rem;
+  color: #bbb;
+}
+
+.photo-hint { color: #c4c8cc; }
+
+/* ─── Photo lightbox ──────────────────────────────────────── */
+body.photo-lightbox-lock { overflow: hidden; }
+
+.photo-lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 3.5rem 4.5rem 4rem;
+  background: rgba(18, 20, 23, 0.93);
+}
+
+.photo-lightbox.open { display: flex; }
+
+.photo-lightbox img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  border-radius: 6px;
+}
+
+.photo-lightbox-caption {
+  position: absolute;
+  bottom: 1.1rem;
+  left: 50%;
+  transform: translateX(-50%);
+  max-width: min(720px, 88vw);
+  margin: 0;
+  text-align: center;
+  font-size: 0.85rem;
+  line-height: 1.55;
+  color: #e6e8ea;
+}
+
+.photo-lightbox-btn,
+.photo-lightbox-close {
+  position: absolute;
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  line-height: 1;
+  transition: background 0.15s;
+}
+
+.photo-lightbox-btn {
+  top: 50%;
+  transform: translateY(-50%);
+  width: 44px;
+  height: 44px;
+  font-size: 1.7rem;
+}
+
+.photo-lightbox-btn.prev { left: 1rem; }
+.photo-lightbox-btn.next { right: 1rem; }
+
+.photo-lightbox-close {
+  top: 1rem;
+  right: 1rem;
+  width: 38px;
+  height: 38px;
+  font-size: 1.5rem;
+}
+
+.photo-lightbox-btn:hover,
+.photo-lightbox-close:hover { background: rgba(255, 255, 255, 0.22); }
+
+@media (max-width: 600px) {
+  .photo-stage { height: clamp(240px, 48vh, 380px); }
+  .photo-thumb { width: 54px; height: 42px; }
+  .photo-hint { display: none; }
+  .photo-lightbox { padding: 3.5rem 0.75rem 4rem; }
+  .photo-lightbox-btn { width: 38px; height: 38px; }
+  .photo-lightbox-btn.prev { left: 0.35rem; }
+  .photo-lightbox-btn.next { right: 0.35rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .photo-slide.active { animation: none; }
+  .photo-filmstrip { scroll-behavior: auto; }
 }
 
 .cooking-coming-soon {
