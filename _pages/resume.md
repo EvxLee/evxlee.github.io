@@ -6,7 +6,7 @@ author_profile: false
 classes: wide
 ---
 
-<p class="project-intro">Two versions, depending on what you're looking for.</p>
+<p class="project-intro">Two versions depending on what you're looking for.</p>
 
 <link rel="stylesheet" href="/assets/css/custom.css">
 
