@@ -7,3 +7,6 @@ Gemfile.lock
 
 # Full-resolution photo originals: kept locally, web-sized copies are committed
 assets/images/photos/_originals/
+
+# macOS Finder metadata
+.DS_Store

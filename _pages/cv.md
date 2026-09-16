@@ -47,7 +47,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <span class="cv-badge comp">Event</span>
         <p class="cv-company">YC Startup Internship Expo</p>
         <p class="cv-meta">Aug 2026 </p>        
-        <p class="cv-desc">Will attend on August 15th and update on this event after. High hopes and hopefully it delivers.</p>
+        <p class="cv-desc">Talked with a lot of cool companies and people. Love the startup scene!</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/YC_logo.svg" alt="YC Startup Internship Expo"></div>
     </div>
@@ -73,12 +73,27 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <span class="cv-badge comp">Event</span>
         <p class="cv-company">YC Startup School 2026</p>
         <p class="cv-meta">Jul 2026 </p>        
-        <p class="cv-desc">Fun Larp event! Always interesting to hear from Jensen Huang, Sam Altman, and other rich billionares. Thank you for the free food and freebies.</p>
+        <p class="cv-desc">Fun, cool event to be at, though a bit of a larpfest.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/YC_logo.svg" alt="YC Startup School 2026"></div>
     </div>
   </li>
 
+  <li class="cv-item">
+    <div class="cv-dot work"></div>
+    <div class="cv-item-body">
+      <div class="cv-item-main">
+        <span class="cv-badge work">Internship</span>
+        <p class="cv-company">Git Machine</p>
+        <p class="cv-role">Forward Deployed Engineer Intern</p>
+        <p class="cv-meta">Jun 2026 – Aug 2026</p>
+        <p class="cv-desc">Ran customer discovery at a GPU compute optimization startup. Talked to 20+ engineers across AI, robotics, and biotech, then worked with the engineering team to turn what I heard into the next thing we built.</p>
+      </div>
+      <div class="cv-logo-box"><img src="/assets/images/cv_logos/gitmachine_logo.jpeg" alt="Git Machine"></div>
+    </div>
+  </li>
+
+  <!-- TODO(evan): see spec 3g -->
   <li class="cv-item">
     <div class="cv-dot comp"></div>
     <div class="cv-item-body">
@@ -100,23 +115,9 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <p class="cv-company">Ithildin</p>
         <p class="cv-role">AI/ML Engineer</p>
         <p class="cv-meta">Jun 2026 – Aug 2026</p>
-        <p class="cv-desc">Regretted this experience but you live and learn.</p>
+        <p class="cv-desc">Built the transcription engine behind their deposition platform for litigators.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/ithildinlogo.png" alt="Ithildin"></div>
-    </div>
-  </li>
-
-  <li class="cv-item">
-    <div class="cv-dot work"></div>
-    <div class="cv-item-body">
-      <div class="cv-item-main">
-        <span class="cv-badge work">Internship</span>
-        <p class="cv-company">Git Machine</p>
-        <p class="cv-role">GTM Engineer</p>
-        <p class="cv-meta">Jun 2026 – Present</p>
-        <p class="cv-desc">Building something new @ Runtime compute optimization for GPU AI workloads! Contact me if interested to learn more.</p>
-      </div>
-      <div class="cv-logo-box"><img src="/assets/images/cv_logos/gitmachine_logo.jpeg" alt="Git Machine"></div>
     </div>
   </li>
 
@@ -126,9 +127,9 @@ A running record of everything that shaped my time at Berkeley, big and small.
       <div class="cv-item-main">
         <span class="cv-badge research">Research</span>
         <p class="cv-company">UCSF Yang Lab</p>
-        <p class="cv-role">Machine Learning Researcher</p>
-        <p class="cv-meta">Advised under Dr. Hanxue Gu · May 2026 – Present</p>
-        <p class="cv-desc">NLP research on biomedical text and articles to extract structured data.</p>
+        <p class="cv-role">NLP Researcher</p>
+        <p class="cv-meta">Advised under Dr. Hanxue Gu · May 2026 – Sep 2026</p>
+        <p class="cv-desc">Built NLP pipelines that pull structured data out of biomedical papers. Co-authored a NeurIPS 2026 workshop submission on CohortFlow, an agent that finds trial-eligible patients and takes clinician corrections mid-run.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/ucsf_logo.jpg" alt="UCSF"></div>
     </div>
@@ -142,7 +143,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <p class="cv-company">UCSF Tech Lab</p>
         <p class="cv-role">Data Science Researcher</p>
         <p class="cv-meta">Advised by Faris Raza · Mar 2026 – Present</p>
-        <p class="cv-desc">Conducting DS/ML research on the AI-READI multimodal diabetes dataset. Writing a paper to submit to Med Journals sometime in August/September.</p>
+        <p class="cv-desc">Conducting DS/ML research on the AI-READI multimodal diabetes dataset. Writing a paper to submit to Med Journals.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/ucsf_logo.jpg" alt="UCSF Tech Lab"></div>
     </div>
@@ -223,6 +224,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
     </div>
   </li>
 
+  <!-- TODO(evan): see spec 3g -->
   <li class="cv-item">
     <div class="cv-dot work"></div>
     <div class="cv-item-body">

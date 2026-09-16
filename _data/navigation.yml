@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /
   - title: "Resume"
-    url: /resume/
+    url: /assets/Evan_Lee_Resume.pdf
   - title: "Coursework"
     url: /coursework/
   - title: "CV"
