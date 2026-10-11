@@ -66,7 +66,7 @@ Ranked from my highest rated to lowest. Use the arrows to flip through them.
         <h3 class="slide-title">Violet Evergarden</h3>
         <div class="slide-rating">10/10</div>
         <div class="slide-badges"><span class="anime-status completed">Completed</span></div>
-        <p class="slide-thoughts">Just a beautiful anime, dissapointed with the decision for no season 2 and movies instead.</p>
+        <p class="slide-thoughts">Just a beautiful anime, disappointed with the decision for no season 2 and movies instead.</p>
       </div>
 
       <div class="slide">

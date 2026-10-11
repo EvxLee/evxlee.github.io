@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" width="320" height="180" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, sans-serif">
+<rect x="20" y="12" width="172" height="26" rx="7" style="fill:#ffffff;stroke:#9cc0ea;stroke-width:1.5"></rect>
+<circle cx="34" cy="25" r="7" style="fill:#4a90d9"></circle>
+<text x="34" y="28.5" style="font-size:9px;font-weight:700;fill:#ffffff;text-anchor:middle">1</text>
+<rect x="48" y="22" width="58" height="6" rx="3" style="fill:#d6e6f7"></rect>
+<rect x="116" y="22" width="66" height="6" rx="3" style="fill:#e8f1fb"></rect>
+<rect x="116" y="22" width="60" height="6" rx="3" style="fill:#4a90d9"></rect>
+<rect x="20" y="44" width="172" height="26" rx="7" style="fill:#ffffff;stroke:#9cc0ea;stroke-width:1.5"></rect>
+<circle cx="34" cy="57" r="7" style="fill:#6fa7e2"></circle>
+<text x="34" y="60.5" style="font-size:9px;font-weight:700;fill:#ffffff;text-anchor:middle">2</text>
+<rect x="48" y="54" width="62" height="6" rx="3" style="fill:#d6e6f7"></rect>
+<rect x="116" y="54" width="66" height="6" rx="3" style="fill:#e8f1fb"></rect>
+<rect x="116" y="54" width="48" height="6" rx="3" style="fill:#6fa7e2"></rect>
+<rect x="20" y="76" width="172" height="26" rx="7" style="fill:#ffffff;stroke:#9cc0ea;stroke-width:1.5"></rect>
+<circle cx="34" cy="89" r="7" style="fill:#9cc0ea"></circle>
+<text x="34" y="92.5" style="font-size:9px;font-weight:700;fill:#ffffff;text-anchor:middle">3</text>
+<rect x="48" y="86" width="50" height="6" rx="3" style="fill:#d6e6f7"></rect>
+<rect x="116" y="86" width="66" height="6" rx="3" style="fill:#e8f1fb"></rect>
+<rect x="116" y="86" width="38" height="6" rx="3" style="fill:#9cc0ea"></rect>
+<rect x="20" y="110" width="68" height="20" rx="10" style="fill:#ffffff;stroke:#4a90d9;stroke-width:1.5"></rect>
+<text x="54" y="123.5" style="font-size:9.5px;font-weight:600;fill:#2a66a8;text-anchor:middle">child care</text>
+<rect x="94" y="110" width="44" height="20" rx="10" style="fill:#ffffff;stroke:#9cc0ea;stroke-width:1.5"></rect>
+<rect x="104" y="118.5" width="24" height="3" rx="1.5" style="fill:#c4daf2"></rect>
+<rect x="144" y="110" width="44" height="20" rx="10" style="fill:#ffffff;stroke:#9cc0ea;stroke-width:1.5"></rect>
+<rect x="154" y="118.5" width="24" height="3" rx="1.5" style="fill:#c4daf2"></rect>
+<path d="M210 14 h80 a10 10 0 0 1 10 10 v52 a10 10 0 0 1 -10 10 h-58 l-12 11 v-11 h-10 a10 10 0 0 1 -10 -10 v-52 a10 10 0 0 1 10 -10 z" style="fill:#ffffff;stroke:#4a90d9;stroke-width:1.5"></path>
+<text x="211" y="33" style="font-size:10px;font-weight:600;fill:#2a66a8">Why this match</text>
+<rect x="211" y="43" width="76" height="5" rx="2.5" style="fill:#d6e6f7"></rect>
+<rect x="211" y="55" width="68" height="5" rx="2.5" style="fill:#d6e6f7"></rect>
+<rect x="211" y="67" width="50" height="5" rx="2.5" style="fill:#d6e6f7"></rect>
+</svg>

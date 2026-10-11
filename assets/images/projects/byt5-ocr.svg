@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" width="320" height="180" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, sans-serif">
+<rect x="22" y="14" width="276" height="68" rx="12" style="fill:#ffffff;stroke:#93d3ad;stroke-width:1.5"></rect>
+<polygon points="38,26 49,31 38,36" style="fill:#27ae60"></polygon>
+<path d="M48 31 L 62 31" style="fill:none;stroke:#27ae60;stroke-width:2.2;stroke-linecap:round"></path>
+<polygon points="66,26 77,31 66,36" style="fill:#27ae60"></polygon>
+<path d="M76 31 L 90 31" style="fill:none;stroke:#27ae60;stroke-width:2.2;stroke-linecap:round"></path>
+<polygon points="99,22 109,22 104,33" style="fill:#27ae60"></polygon>
+<path d="M104 32 L 104 44" style="fill:none;stroke:#27ae60;stroke-width:2.2;stroke-linecap:round"></path>
+<polygon points="124,26 135,31 124,36" style="fill:#27ae60"></polygon>
+<path d="M134 31 L 148 31" style="fill:none;stroke:#27ae60;stroke-width:2.2;stroke-linecap:round"></path>
+<polygon points="152,26 163,31 152,36" style="fill:#27ae60"></polygon>
+<path d="M162 31 L 176 31" style="fill:none;stroke:#27ae60;stroke-width:2.2;stroke-linecap:round"></path>
+<polygon points="189,22 199,22 194,33" style="fill:#27ae60"></polygon>
+<path d="M194 32 L 194 44" style="fill:none;stroke:#27ae60;stroke-width:2.2;stroke-linecap:round"></path>
+<polygon points="210,26 221,31 210,36" style="fill:#27ae60"></polygon>
+<path d="M220 31 L 234 31" style="fill:none;stroke:#27ae60;stroke-width:2.2;stroke-linecap:round"></path>
+<polygon points="244,26 255,31 244,36" style="fill:#27ae60"></polygon>
+<path d="M254 31 L 268 31" style="fill:none;stroke:#27ae60;stroke-width:2.2;stroke-linecap:round"></path>
+<polygon points="279,22 289,22 284,33" style="fill:#27ae60"></polygon>
+<path d="M284 32 L 284 44" style="fill:none;stroke:#27ae60;stroke-width:2.2;stroke-linecap:round"></path>
+<polygon points="40,57 51,62 40,67" style="fill:#27ae60"></polygon>
+<path d="M50 62 L 64 62" style="fill:none;stroke:#27ae60;stroke-width:2.2;stroke-linecap:round"></path>
+<polygon points="79,52 89,52 84,63" style="fill:#27ae60"></polygon>
+<path d="M84 62 L 84 74" style="fill:none;stroke:#27ae60;stroke-width:2.2;stroke-linecap:round"></path>
+<polygon points="108,57 119,62 108,67" style="fill:#27ae60"></polygon>
+<path d="M118 62 L 132 62" style="fill:none;stroke:#27ae60;stroke-width:2.2;stroke-linecap:round"></path>
+<polygon points="136,57 147,62 136,67" style="fill:#27ae60"></polygon>
+<path d="M146 62 L 160 62" style="fill:none;stroke:#27ae60;stroke-width:2.2;stroke-linecap:round"></path>
+<polygon points="175,52 185,52 180,63" style="fill:#27ae60"></polygon>
+<path d="M180 62 L 180 74" style="fill:none;stroke:#27ae60;stroke-width:2.2;stroke-linecap:round"></path>
+<polygon points="200,57 211,62 200,67" style="fill:#27ae60"></polygon>
+<path d="M210 62 L 224 62" style="fill:none;stroke:#27ae60;stroke-width:2.2;stroke-linecap:round"></path>
+<polygon points="232,57 243,62 232,67" style="fill:#27ae60"></polygon>
+<path d="M242 62 L 256 62" style="fill:none;stroke:#27ae60;stroke-width:2.2;stroke-linecap:round"></path>
+<polygon points="271,52 281,52 276,63" style="fill:#27ae60"></polygon>
+<path d="M276 62 L 276 74" style="fill:none;stroke:#27ae60;stroke-width:2.2;stroke-linecap:round"></path>
+<text x="22" y="114" style="font-size:10px;font-weight:600;fill:#5b7465">OCR</text>
+<text x="64" y="114" style="font-family:Georgia, 'Times New Roman', serif;font-style:italic;font-size:15px;fill:#6a7a70">a-na be-li-ia qi-bi-ma</text>
+<text x="22" y="144" style="font-size:10px;font-weight:700;fill:#1b7a43">ByT5</text>
+<text x="64" y="144" style="font-family:Georgia, 'Times New Roman', serif;font-style:italic;font-size:15px;fill:#1b7a43">a-na be-lí-ia qí-bí-ma</text>
+<polyline points="232,138 237,143 246,133" style="fill:none;stroke:#27ae60;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round"></polyline>
+</svg>

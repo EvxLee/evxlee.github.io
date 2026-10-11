@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" width="320" height="180" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, sans-serif">
+<circle cx="40" cy="30" r="4" style="fill:#cdebd9"></circle>
+<circle cx="64" cy="92" r="4" style="fill:#cdebd9"></circle>
+<circle cx="84" cy="52" r="4" style="fill:#cdebd9"></circle>
+<circle cx="96" cy="118" r="4" style="fill:#cdebd9"></circle>
+<circle cx="118" cy="30" r="4" style="fill:#cdebd9"></circle>
+<circle cx="110" cy="72" r="4" style="fill:#cdebd9"></circle>
+<circle cx="204" cy="30" r="4" style="fill:#cdebd9"></circle>
+<circle cx="214" cy="104" r="4" style="fill:#cdebd9"></circle>
+<circle cx="236" cy="62" r="4" style="fill:#cdebd9"></circle>
+<circle cx="258" cy="96" r="4" style="fill:#cdebd9"></circle>
+<circle cx="270" cy="36" r="4" style="fill:#cdebd9"></circle>
+<circle cx="290" cy="78" r="4" style="fill:#cdebd9"></circle>
+<circle cx="56" cy="124" r="4" style="fill:#cdebd9"></circle>
+<circle cx="196" cy="128" r="4" style="fill:#cdebd9"></circle>
+<circle cx="244" cy="124" r="4" style="fill:#cdebd9"></circle>
+<circle cx="286" cy="118" r="4" style="fill:#cdebd9"></circle>
+<circle cx="150" cy="24" r="4" style="fill:#cdebd9"></circle>
+<circle cx="124" cy="112" r="4" style="fill:#cdebd9"></circle>
+<path d="M150 66 L 186 56" style="fill:none;stroke:#27ae60;stroke-width:1.6"></path>
+<path d="M150 66 L 124 88" style="fill:none;stroke:#27ae60;stroke-width:1.6"></path>
+<path d="M150 66 L 170 96" style="fill:none;stroke:#27ae60;stroke-width:1.6"></path>
+<circle cx="186" cy="56" r="5.5" style="fill:#ffffff;stroke:#27ae60;stroke-width:1.8"></circle>
+<circle cx="124" cy="88" r="5.5" style="fill:#ffffff;stroke:#27ae60;stroke-width:1.8"></circle>
+<circle cx="170" cy="96" r="5.5" style="fill:#ffffff;stroke:#27ae60;stroke-width:1.8"></circle>
+<circle cx="150" cy="66" r="7.5" style="fill:#27ae60"></circle>
+<text x="150" y="48" style="font-size:10px;font-weight:600;fill:#1b7a43;text-anchor:middle">your song</text>
+<rect x="30" y="147" width="4" height="6" rx="2" style="fill:#93d3ad"></rect>
+<rect x="38" y="145" width="4" height="10" rx="2" style="fill:#93d3ad"></rect>
+<rect x="46" y="142" width="4" height="16" rx="2" style="fill:#93d3ad"></rect>
+<rect x="54" y="145.5" width="4" height="9" rx="2" style="fill:#93d3ad"></rect>
+<rect x="62" y="140" width="4" height="20" rx="2" style="fill:#93d3ad"></rect>
+<rect x="70" y="144" width="4" height="12" rx="2" style="fill:#93d3ad"></rect>
+<rect x="78" y="146.5" width="4" height="7" rx="2" style="fill:#93d3ad"></rect>
+<rect x="86" y="143" width="4" height="14" rx="2" style="fill:#93d3ad"></rect>
+<rect x="94" y="139" width="4" height="22" rx="2" style="fill:#93d3ad"></rect>
+<rect x="102" y="144.5" width="4" height="11" rx="2" style="fill:#93d3ad"></rect>
+<rect x="110" y="146" width="4" height="8" rx="2" style="fill:#93d3ad"></rect>
+<rect x="118" y="141" width="4" height="18" rx="2" style="fill:#93d3ad"></rect>
+<rect x="126" y="143.5" width="4" height="13" rx="2" style="fill:#93d3ad"></rect>
+<rect x="134" y="147" width="4" height="6" rx="2" style="fill:#93d3ad"></rect>
+<rect x="142" y="142.5" width="4" height="15" rx="2" style="fill:#93d3ad"></rect>
+<rect x="150" y="139.5" width="4" height="21" rx="2" style="fill:#27ae60"></rect>
+<rect x="158" y="145" width="4" height="10" rx="2" style="fill:#93d3ad"></rect>
+<rect x="166" y="146.5" width="4" height="7" rx="2" style="fill:#93d3ad"></rect>
+<rect x="174" y="141.5" width="4" height="17" rx="2" style="fill:#93d3ad"></rect>
+<rect x="182" y="144" width="4" height="12" rx="2" style="fill:#93d3ad"></rect>
+<rect x="190" y="145.5" width="4" height="9" rx="2" style="fill:#93d3ad"></rect>
+<rect x="198" y="140.5" width="4" height="19" rx="2" style="fill:#93d3ad"></rect>
+<rect x="206" y="143" width="4" height="14" rx="2" style="fill:#93d3ad"></rect>
+<rect x="214" y="146" width="4" height="8" rx="2" style="fill:#93d3ad"></rect>
+<rect x="222" y="144.5" width="4" height="11" rx="2" style="fill:#93d3ad"></rect>
+<rect x="230" y="140" width="4" height="20" rx="2" style="fill:#93d3ad"></rect>
+<rect x="238" y="145.5" width="4" height="9" rx="2" style="fill:#93d3ad"></rect>
+<rect x="246" y="147" width="4" height="6" rx="2" style="fill:#93d3ad"></rect>
+<rect x="254" y="143.5" width="4" height="13" rx="2" style="fill:#93d3ad"></rect>
+<rect x="262" y="141.5" width="4" height="17" rx="2" style="fill:#93d3ad"></rect>
+<rect x="270" y="145" width="4" height="10" rx="2" style="fill:#93d3ad"></rect>
+<rect x="278" y="146.5" width="4" height="7" rx="2" style="fill:#93d3ad"></rect>
+<rect x="286" y="144" width="4" height="12" rx="2" style="fill:#93d3ad"></rect>
+</svg>

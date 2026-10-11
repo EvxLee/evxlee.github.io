@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" width="320" height="180" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, sans-serif">
+<rect x="20" y="16" width="98" height="28" rx="14" style="fill:#ffffff;stroke:#b07cc8;stroke-width:1.5;stroke-dasharray:4 3"></rect>
+<text x="69" y="34" style="font-size:10.5px;fill:#7a3a96;text-anchor:middle">cirrhosis</text>
+<text x="69" y="58" style="font-size:9.5px;fill:#8a5aa3;text-anchor:middle">reused</text>
+<rect x="20" y="70" width="98" height="28" rx="14" style="fill:#8e44ad"></rect>
+<text x="69" y="88" style="font-size:10.5px;font-weight:700;fill:#ffffff;text-anchor:middle">+ COPD</text>
+<text x="69" y="112" style="font-size:9.5px;font-weight:600;fill:#7a3a96;text-anchor:middle">added mid-run</text>
+<path d="M118 30 C 146 30, 150 56, 172 60" style="fill:none;stroke:#c9a3db;stroke-width:1.5;stroke-dasharray:4 3"></path>
+<path d="M118 84 C 146 84, 150 70, 172 66" style="fill:none;stroke:#8e44ad;stroke-width:2"></path>
+<circle cx="188" cy="63" r="16" style="fill:#ffffff;stroke:#8e44ad;stroke-width:2"></circle>
+<text x="188" y="66.5" style="font-size:9.5px;font-weight:700;fill:#7a3a96;text-anchor:middle">AND</text>
+<path d="M204 63 L 222 63" style="fill:none;stroke:#8e44ad;stroke-width:2"></path>
+<polygon points="222,59 229,63 222,67" style="fill:#8e44ad"></polygon>
+<rect x="232" y="47" width="70" height="32" rx="9" style="fill:#ffffff;stroke:#8e44ad;stroke-width:2"></rect>
+<text x="267" y="67" style="font-size:10.5px;font-weight:700;fill:#7a3a96;text-anchor:middle">cohort</text>
+</svg>

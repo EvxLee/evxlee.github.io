@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" width="320" height="180" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, sans-serif">
+<rect x="22" y="14" width="126" height="110" rx="9" style="fill:#ffffff;stroke:#9cc0ea;stroke-width:1.5"></rect>
+<circle cx="85" cy="66" r="34" style="fill:#e8f1fb;stroke:#9cc0ea;stroke-width:1.5"></circle>
+<circle cx="74" cy="58" r="2.5" style="fill:#9cc0ea"></circle>
+<circle cx="96" cy="58" r="2.5" style="fill:#9cc0ea"></circle>
+<rect x="60" y="68" width="11" height="11" rx="1.5" style="fill:none;stroke:#2a66a8;stroke-width:1.6"></rect>
+<rect x="99" y="66" width="11" height="11" rx="1.5" style="fill:none;stroke:#2a66a8;stroke-width:1.6"></rect>
+<rect x="80" y="84" width="10" height="10" rx="1.5" style="fill:none;stroke:#2a66a8;stroke-width:1.6"></rect>
+<text x="85" y="144" style="font-size:10px;font-weight:600;fill:#2a66a8;text-anchor:middle">own photos: 98.7%</text>
+<rect x="172" y="14" width="126" height="110" rx="9" style="fill:#ffffff;stroke:#9cc0ea;stroke-width:1.5"></rect>
+<circle cx="235" cy="66" r="34" style="fill:#f3f7fc;stroke:#cfe0f4;stroke-width:1.5"></circle>
+<text x="235" y="70" transform="rotate(-22 235 66)" style="font-size:12px;font-weight:800;letter-spacing:1.5px;fill:#bccbdc;text-anchor:middle">WATERMARK</text>
+<rect x="185" y="54" width="100" height="24" rx="2" transform="rotate(-22 235 66)" style="fill:none;stroke:#e67e22;stroke-width:1.8"></rect>
+<text x="235" y="144" style="font-size:10px;font-weight:600;fill:#a8550c;text-anchor:middle">new photos: false alarms</text>
+</svg>

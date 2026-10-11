@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" width="320" height="180" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, sans-serif">
+<path d="M44 18 L 44 146 L 300 146" style="fill:none;stroke:#dfc283;stroke-width:1.5"></path>
+<text x="38" y="26" style="font-size:10px;fill:#7d5c10;text-anchor:end">return</text>
+<text x="300" y="162" style="font-size:10px;fill:#7d5c10;text-anchor:end">risk</text>
+<circle cx="100" cy="120" r="3.5" style="fill:#e8cf94"></circle>
+<circle cx="120" cy="110" r="3.5" style="fill:#e8cf94"></circle>
+<circle cx="140" cy="96" r="3.5" style="fill:#e8cf94"></circle>
+<circle cx="160" cy="104" r="3.5" style="fill:#e8cf94"></circle>
+<circle cx="180" cy="88" r="3.5" style="fill:#e8cf94"></circle>
+<circle cx="200" cy="96" r="3.5" style="fill:#e8cf94"></circle>
+<circle cx="220" cy="78" r="3.5" style="fill:#e8cf94"></circle>
+<circle cx="240" cy="90" r="3.5" style="fill:#e8cf94"></circle>
+<circle cx="260" cy="70" r="3.5" style="fill:#e8cf94"></circle>
+<circle cx="150" cy="124" r="3.5" style="fill:#e8cf94"></circle>
+<circle cx="190" cy="118" r="3.5" style="fill:#e8cf94"></circle>
+<circle cx="230" cy="110" r="3.5" style="fill:#e8cf94"></circle>
+<circle cx="270" cy="96" r="3.5" style="fill:#e8cf94"></circle>
+<circle cx="210" cy="132" r="3.5" style="fill:#e8cf94"></circle>
+<circle cx="170" cy="136" r="3.5" style="fill:#e8cf94"></circle>
+<circle cx="250" cy="124" r="3.5" style="fill:#e8cf94"></circle>
+<circle cx="280" cy="84" r="3.5" style="fill:#e8cf94"></circle>
+<circle cx="120" cy="134" r="3.5" style="fill:#e8cf94"></circle>
+<path d="M70 132 C 92 70, 150 44, 290 30" style="fill:none;stroke:#c0922b;stroke-width:2.6;stroke-linecap:round"></path>
+<circle cx="136" cy="63" r="6.5" style="fill:#c0922b;stroke:#ffffff;stroke-width:2.5"></circle>
+</svg>

@@ -12,10 +12,10 @@ Hello, I'm Evan Lee. I'm from the East Bay (San Ramon) with roots in Taiwan 🇹
 
 I'm a sophomore at UC Berkeley studying Data Science (domain emphasis in Business & Industrial Analytics) and Economics, with a minor in Computer Science.
 
-I'm a generalist who is driven by things I'm passionate and excited about. I want to bridge my technical skills with high-stakes client-facing work. I'm pursuing a career in Product Management, particularly in the tech industry, while staying open to Data Science roles. I'm currently recruiting for PM/APM internships.
+I'm a generalist who is driven by things I'm passionate and excited about. I want to bridge my technical skills with high-stakes client-facing work. I'm pursuing a career in Product Management, particularly in the tech industry. I'm currently recruiting for Summer 2027 PM/APM internships.
 
 Outside of school I work out, play poker and video games, watch and play basketball, soccer, and football, and cook and eat new things. There's more on my [Fun](/fun/) page.
 
-Start with my [CV](/cv/), [Resume](/assets/Evan_Lee_Resume.pdf), or [Coursework](/coursework/). Feel free to reach out to me for anything!
+Start with my [Resume](/assets/Evan_Lee_Resume.pdf), [CV](/cv/), or [Projects](/projects/). Feel free to reach out to me for anything!
 
-<p style="font-size: 0.78rem; color: #aaa; margin-top: 2rem;">Last updated: Sep 15, 2026</p>
+<p style="font-size: 0.78rem; color: #aaa; margin-top: 2rem;">Last updated: Oct 10, 2026</p>

@@ -28,7 +28,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <p class="cv-company">University of California, Berkeley</p>
         <p class="cv-role">Bachelor of Arts Degree </p>
         <p class="cv-meta">August 2025 - May 2029</p>
-        <p class="cv-desc">Data Science and Economics Double Major. Applying for Business Degree in 2027, will replace it w/ Econ if I get in.</p>
+        <p class="cv-desc">Data Science and Economics double major, Computer Science minor.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/berkeley_logo.webp" alt="UC Berkeley"></div>
     </div>
@@ -39,6 +39,20 @@ A running record of everything that shaped my time at Berkeley, big and small.
 ## 2026
 
 <ul class="cv-timeline">
+
+  <li class="cv-item">
+    <div class="cv-dot work"></div>
+    <div class="cv-item-body">
+      <div class="cv-item-main">
+        <span class="cv-badge work">Internship</span>
+        <p class="cv-company">Wing Assistant</p>
+        <p class="cv-role">Product Management Intern</p>
+        <p class="cv-meta">Oct 2026 – Present</p>
+        <p class="cv-desc">Working on Central AI.</p>
+      </div>
+      <div class="cv-logo-box"><img src="/assets/images/cv_logos/wing_logo.png" alt="Wing Assistant"></div>
+    </div>
+  </li>
 
 <li class="cv-item">
     <div class="cv-dot comp"></div>
@@ -73,7 +87,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <span class="cv-badge comp">Event</span>
         <p class="cv-company">YC Startup School 2026</p>
         <p class="cv-meta">Jul 2026 </p>        
-        <p class="cv-desc">Fun, cool event to be at, though a bit of a larpfest.</p>
+        <p class="cv-desc">Great event, thankful for the free Claude Max.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/YC_logo.svg" alt="YC Startup School 2026"></div>
     </div>
@@ -93,7 +107,6 @@ A running record of everything that shaped my time at Berkeley, big and small.
     </div>
   </li>
 
-  <!-- TODO(evan): see spec 3g -->
   <li class="cv-item">
     <div class="cv-dot comp"></div>
     <div class="cv-item-body">
@@ -101,7 +114,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <span class="cv-badge comp">Competition</span>
         <p class="cv-company">UC Berkeley AI Hackathon 2026</p>
         <p class="cv-meta">Jun 2026</p>
-        <p class="cv-desc">Attended to talk to with sponsors.</p>
+        <p class="cv-desc">Fun event.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/ai_hackathon_logo.jpeg" alt="UC Berkeley AI Hackathon"></div>
     </div>
@@ -113,7 +126,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
       <div class="cv-item-main">
         <span class="cv-badge work">Internship</span>
         <p class="cv-company">Ithildin</p>
-        <p class="cv-role">AI/ML Engineer</p>
+        <p class="cv-role">AI/ML Engineer Intern</p>
         <p class="cv-meta">Jun 2026 – Aug 2026</p>
         <p class="cv-desc">Built the transcription engine behind their deposition platform for litigators.</p>
       </div>
@@ -127,9 +140,9 @@ A running record of everything that shaped my time at Berkeley, big and small.
       <div class="cv-item-main">
         <span class="cv-badge research">Research</span>
         <p class="cv-company">UCSF Yang Lab</p>
-        <p class="cv-role">NLP Researcher</p>
+        <p class="cv-role">Data Science Researcher</p>
         <p class="cv-meta">Advised under Dr. Hanxue Gu · May 2026 – Sep 2026</p>
-        <p class="cv-desc">Built NLP pipelines that pull structured data out of biomedical papers. Co-authored a NeurIPS 2026 workshop submission on CohortFlow, an agent that finds trial-eligible patients and takes clinician corrections mid-run.</p>
+        <p class="cv-desc">Co-authored <a href="https://neurips.cc/virtual/2026/loc/sydney/177187" target="_blank" rel="noopener">CohortFlow</a>, accepted to the NeurIPS 2026 GenAI4Health Workshop: an AI agent that finds trial-eligible patients and lets clinicians change criteria mid-run without restarting.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/ucsf_logo.jpg" alt="UCSF"></div>
     </div>
@@ -143,7 +156,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <p class="cv-company">UCSF Tech Lab</p>
         <p class="cv-role">Data Science Researcher</p>
         <p class="cv-meta">Advised by Faris Raza · Mar 2026 – Present</p>
-        <p class="cv-desc">Conducting DS/ML research on the AI-READI multimodal diabetes dataset. Writing a paper to submit to Med Journals.</p>
+        <p class="cv-desc">DS/ML research on the AI-READI multimodal diabetes dataset.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/ucsf_logo.jpg" alt="UCSF Tech Lab"></div>
     </div>
@@ -170,10 +183,24 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <span class="cv-badge research">Research</span>
         <p class="cv-company">FactGrid Cuneiform</p>
         <p class="cv-role">NLP Researcher</p>
-        <p class="cv-meta">Advised by Dr. Adam Anderson · Jan 2026 – Apr 2026</p>
-        <p class="cv-desc">Fine-tuned ByT5 model to correct OCR errors in scanned Akkadian transliterations</p>
+        <p class="cv-meta">Advised by Dr. Adam Anderson · Jan 2026 – Present</p>
+        <p class="cv-desc">Fine-tuned a ByT5 model to fix OCR errors in Akkadian transliterations, cutting character errors 74%. Now defining requirements to make it a scalable autocorrect tool for researchers, through Berkeley's Data Discovery program.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/factgrid_cuneiform_logo.jpeg" alt="FactGrid Cuneiform"></div>
+    </div>
+  </li>
+
+  <li class="cv-item">
+    <div class="cv-dot work"></div>
+    <div class="cv-item-body">
+      <div class="cv-item-main">
+        <span class="cv-badge work">Internship</span>
+        <p class="cv-company">Ergonosis</p>
+        <p class="cv-role">Data Engineer Intern</p>
+        <p class="cv-meta">Jan 2026 – Mar 2026</p>
+        <p class="cv-desc">Built a Data Extraction layer for downstream analytics</p>
+      </div>
+      <div class="cv-logo-box"><img src="/assets/images/cv_logos/Ergonosis_logo.jpeg" alt="Ergonosis"></div>
     </div>
   </li>
 
@@ -191,7 +218,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <p class="cv-company">AgentX – AgentBeats Competition</p>
         <p class="cv-role">Berkeley RDI</p>
         <p class="cv-meta">Dec 2025 – Jan 2026</p>
-        <p class="cv-desc">Built a Schema Merging Evaluation Agent. Finished 2nd place in Finance Track (sponsored by OpenAI). Currently writing an arXiv research paper on findings, plan to finish around August/September.</p>
+        <p class="cv-desc">Placed 2nd in the OpenAI-sponsored Finance track with our evaluator agent, which scores AI agents on data integration. I helped deploy and test it.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/berkeley_rdi_logo.jpeg" alt="Berkeley RDI"></div>
     </div>
@@ -218,24 +245,9 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <span class="cv-badge comp">Competition</span>
         <p class="cv-company">UC Berkeley 7th Annual Datathon for Social Good</p>
         <p class="cv-meta">Nov 2025</p>
-        <p class="cv-desc">Built EquiMatch, a college recommender app for a more equitable, educated future. Finished 3rd place.</p>
+        <p class="cv-desc">Built EquiMatch, a college recommender for underserved students. Finished 3rd of 50+ teams.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/Datathon_logo.png" alt="Datathon for Social Good"></div>
-    </div>
-  </li>
-
-  <!-- TODO(evan): see spec 3g -->
-  <li class="cv-item">
-    <div class="cv-dot work"></div>
-    <div class="cv-item-body">
-      <div class="cv-item-main">
-        <span class="cv-badge work">Internship</span>
-        <p class="cv-company">Ergonosis</p>
-        <p class="cv-role">Data Engineer Intern</p>
-        <p class="cv-meta">Jan 2025 – Mar 2026</p>
-        <p class="cv-desc">Built a Data Extraction layer for downstream analytics</p>
-      </div>
-      <div class="cv-logo-box"><img src="/assets/images/cv_logos/Ergonosis_logo.jpeg" alt="Ergonosis"></div>
     </div>
   </li>
 

@@ -3,11 +3,11 @@ main:
     url: /
   - title: "Resume"
     url: /assets/Evan_Lee_Resume.pdf
-  - title: "Coursework"
-    url: /coursework/
   - title: "CV"
     url: /cv/
   - title: "Projects"
     url: /projects/
+  - title: "Coursework"
+    url: /coursework/
   - title: "Fun"
     url: /fun/

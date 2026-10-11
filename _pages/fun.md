@@ -10,7 +10,7 @@ fun_tab: photos
 
 {% include fun-nav.html %}
 
-A collection of photos from things outside of school. I don't usually like to take photos, so hopefully this will encourage me to take more pics. Photos before September 2026 are on an old Iphone 14...
+A collection of photos from things outside of school. I don't usually like to take photos, so hopefully this will encourage me to take more pics.
 
 
 {% for sem in site.data.photos %}
