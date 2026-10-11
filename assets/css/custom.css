@@ -120,13 +120,13 @@ body:has(.cv-timeline) .page__footer {
   color: #222;
 }
 
-.cv-subtitle {
+.page__content .cv-subtitle {
   font-size: 0.92rem;
   color: #555;
   margin: 0 0 0.4rem;
 }
 
-.cv-desc {
+.page__content .cv-desc {
   font-size: 0.9rem;
   color: #666;
   margin: 0;
@@ -179,21 +179,21 @@ body:has(.cv-timeline) .page__footer {
   min-width: 0;
 }
 
-.cv-company {
+.page__content .cv-company {
   font-size: 1.05rem;
   font-weight: 700;
   margin: 0 0 0.12rem;
   color: #222;
 }
 
-.cv-role {
+.page__content .cv-role {
   font-size: 0.92rem;
   color: #444;
   font-weight: 500;
   margin: 0 0 0.18rem;
 }
 
-.cv-meta {
+.page__content .cv-meta {
   font-size: 0.82rem;
   color: #888;
   margin: 0 0 0.4rem;
