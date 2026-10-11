@@ -594,6 +594,14 @@ body:has(.cv-timeline) .page__footer {
 @media (max-width: 560px) {
   .pj .pj-ribbon,
   .pj .pj-ribbon--sm { font-size: 12.5px; }
+
+  /* Cards are one column here, so no titles need to line up: let the cover
+     grow and put the ribbon under the art so it can't hide any of it. The
+     -10% top margin tucks it into the art's empty bottom band. */
+  .pj-cover { aspect-ratio: auto; }
+  .pj-art { height: auto; aspect-ratio: 16 / 9; }
+  .pj .pj-ribbon { position: relative; inset: auto; margin: -10% 12px 12px; }
+  .pj .pj-ribbon--sm { margin: -10% 10px 10px; }
 }
 
 @media (prefers-reduced-motion: reduce) {

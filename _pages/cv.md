@@ -141,7 +141,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <span class="cv-badge research">Research</span>
         <p class="cv-company">UCSF Yang Lab</p>
         <p class="cv-role">Data Science Researcher</p>
-        <p class="cv-meta">Advised under Dr. Hanxue Gu · May 2026 – Sep 2026</p>
+        <p class="cv-meta">Advised by Dr. Hanxue Gu · May 2026 – Sep 2026</p>
         <p class="cv-desc">Co-authored <a href="https://neurips.cc/virtual/2026/loc/sydney/177187" target="_blank" rel="noopener">CohortFlow</a>, accepted to the NeurIPS 2026 GenAI4Health Workshop: an AI agent that finds trial-eligible patients and lets clinicians change criteria mid-run without restarting.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/ucsf_logo.jpg" alt="UCSF"></div>

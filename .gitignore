@@ -10,3 +10,6 @@ assets/images/photos/_originals/
 
 # macOS Finder metadata
 .DS_Store
+
+# Site-update specs: local working docs (Jekyll would publish them as pages)
+site-update-spec*.md
