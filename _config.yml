@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Evan's Playground"
 email: exl2813@berkeley.edu
-description: "Data Science & Economics @ UC Berkeley"
+description: "Data Science @ UC Berkeley"
 og_image: "/assets/images/profile-photo.jpg"
 github_username: EvxLee
 minimal_mistakes_skin: default

@@ -26,9 +26,8 @@ A running record of everything that shaped my time at Berkeley, big and small.
       <div class="cv-item-main">
         <span class="cv-badge edu">Degree</span>
         <p class="cv-company">University of California, Berkeley</p>
-        <p class="cv-role">Bachelor of Arts Degree </p>
+        <p class="cv-role">B.A. in Data Science</p>
         <p class="cv-meta">August 2025 - May 2029</p>
-        <p class="cv-desc">Data Science and Economics double major, Computer Science minor.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/berkeley_logo.webp" alt="UC Berkeley"></div>
     </div>
@@ -166,9 +165,9 @@ A running record of everything that shaped my time at Berkeley, big and small.
     <div class="cv-dot work"></div>
     <div class="cv-item-body">
       <div class="cv-item-main">
-        <span class="cv-badge work">Contract</span>
+        <span class="cv-badge work">Internship</span>
         <p class="cv-company">LG NOVA</p>
-        <p class="cv-role">Machine Learning Engineer (Contract)</p>
+        <p class="cv-role">Software Engineer Intern</p>
         <p class="cv-meta">Feb 2026 – May 2026</p>
         <p class="cv-desc">RAG pipeline to help internal team and analysts navigate their startup portfolio data.</p>
       </div>
@@ -177,14 +176,14 @@ A running record of everything that shaped my time at Berkeley, big and small.
   </li>
 
   <li class="cv-item">
-    <div class="cv-dot research"></div>
+    <div class="cv-dot work"></div>
     <div class="cv-item-body">
       <div class="cv-item-main">
-        <span class="cv-badge research">Research</span>
-        <p class="cv-company">FactGrid Cuneiform</p>
-        <p class="cv-role">NLP Researcher</p>
-        <p class="cv-meta">Advised by Dr. Adam Anderson · Jan 2026 – Present</p>
-        <p class="cv-desc">Fine-tuned a ByT5 model to fix OCR errors in Akkadian transliterations, cutting character errors 74%. Now defining requirements to make it a scalable autocorrect tool for researchers, through Berkeley's Data Discovery program.</p>
+        <span class="cv-badge work">Internship</span>
+        <p class="cv-company">TokenWorks</p>
+        <p class="cv-role">Product Management Intern</p>
+        <p class="cv-meta">Jan 2026 – Present</p>
+        <p class="cv-desc">Building an AI autocorrect for scholars who work with scanned Akkadian texts, through Berkeley's Data Discovery program. Fine-tuned the ByT5 model behind it, cutting OCR character errors 74%.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/factgrid_cuneiform_logo.jpeg" alt="FactGrid Cuneiform"></div>
     </div>
