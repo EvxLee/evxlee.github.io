@@ -53,6 +53,33 @@ A running record of everything that shaped my time at Berkeley, big and small.
     </div>
   </li>
 
+  <li class="cv-item">
+    <div class="cv-dot comp"></div>
+    <div class="cv-item-body">
+      <div class="cv-item-main">
+        <span class="cv-badge comp">Competition</span>
+        <p class="cv-company">Cal Hacks 13.0</p>
+        <p class="cv-meta">Oct 2026</p>
+        <p class="cv-desc">TBD</p>
+      </div>
+      <div class="cv-logo-box"><img src="/assets/images/cv_logos/ai_hackathon_logo.jpeg" alt="Cal Hacks 13.0"></div>
+    </div>
+  </li>
+
+  <li class="cv-item">
+    <div class="cv-dot work"></div>
+    <div class="cv-item-body">
+      <div class="cv-item-main">
+        <span class="cv-badge work">Internship</span>
+        <p class="cv-company">TokenWorks</p>
+        <p class="cv-role">Product Management Intern</p>
+        <p class="cv-meta">Aug 2026 – Present</p>
+        <p class="cv-desc">Building an AI autocorrect for scholars who work with scanned Akkadian texts, through Berkeley's Data Discovery program.</p>
+      </div>
+      <div class="cv-logo-box"><img src="/assets/images/cv_logos/factgrid_cuneiform_logo.jpeg" alt="TokenWorks"></div>
+    </div>
+  </li>
+
 <li class="cv-item">
     <div class="cv-dot comp"></div>
     <div class="cv-item-body">
@@ -100,7 +127,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <p class="cv-company">Git Machine</p>
         <p class="cv-role">Forward Deployed Engineer Intern</p>
         <p class="cv-meta">Jun 2026 – Aug 2026</p>
-        <p class="cv-desc">Ran customer discovery at a GPU compute optimization startup. Talked to 20+ engineers across AI, robotics, and biotech, then worked with the engineering team to turn what I heard into the next thing we built.</p>
+        <p class="cv-desc">Ran customer discovery at a GPU compute optimization startup, turning what I heard into the next thing we built.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/gitmachine_logo.jpeg" alt="Git Machine"></div>
     </div>
@@ -176,14 +203,14 @@ A running record of everything that shaped my time at Berkeley, big and small.
   </li>
 
   <li class="cv-item">
-    <div class="cv-dot work"></div>
+    <div class="cv-dot research"></div>
     <div class="cv-item-body">
       <div class="cv-item-main">
-        <span class="cv-badge work">Internship</span>
-        <p class="cv-company">TokenWorks</p>
-        <p class="cv-role">Product Management Intern</p>
-        <p class="cv-meta">Jan 2026 – Present</p>
-        <p class="cv-desc">Building an AI autocorrect for scholars who work with scanned Akkadian texts, through Berkeley's Data Discovery program. Fine-tuned the ByT5 model behind it, cutting OCR character errors 74%.</p>
+        <span class="cv-badge research">Research</span>
+        <p class="cv-company">FactGrid Cuneiform</p>
+        <p class="cv-role">NLP Researcher</p>
+        <p class="cv-meta">Advised by Dr. Adam Anderson · Jan 2026 – May 2026</p>
+        <p class="cv-desc">TBD</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/factgrid_cuneiform_logo.jpeg" alt="FactGrid Cuneiform"></div>
     </div>

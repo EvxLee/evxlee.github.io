@@ -9,9 +9,9 @@ author_profile: true
 ---
 
 ### Spring 2027 (Tentative)
-- **COMPSCI 189**: Introduction to Machine Learning
+- **STAT 134**: Concepts of Probability
 - **UGBA 10X**: Foundations of Business
-- **ECON 100B**: Macroeconomics
+- **DES INV 15**: Design Methodology
 
 ### Fall 2026
 - **COMPSCI 70**: Discrete Math and Probability Theory
