@@ -60,7 +60,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <span class="cv-badge comp">Competition</span>
         <p class="cv-company">Cal Hacks 13.0</p>
         <p class="cv-meta">Oct 2026</p>
-        <p class="cv-desc">Fun grind with a great team on little sleep. Fell short, but fun experience with 0 regrets!</p>
+        <p class="cv-desc">Fun grind with a great team on little sleep. Fell short, but no regrets on this experience.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/ai_hackathon_logo.jpeg" alt="Cal Hacks 13.0"></div>
     </div>
