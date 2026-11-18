@@ -18,4 +18,4 @@ Outside of school I work out, play poker and video games, watch and play basketb
 
 Start with my [Resume](/assets/Evan_Lee_Resume.pdf), [CV](/cv/), or [Projects](/projects/). Feel free to reach out to me for anything!
 
-<p style="font-size: 0.78rem; color: #aaa; margin-top: 2rem;">Last updated: Oct 14, 2026</p>
+<p style="font-size: 0.78rem; color: #aaa; margin-top: 2rem;">Last updated: Nov 17, 2026</p>

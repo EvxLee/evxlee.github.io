@@ -47,7 +47,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <p class="cv-company">Wing Assistant</p>
         <p class="cv-role">Product Management Intern</p>
         <p class="cv-meta">Oct 2026 – Present</p>
-        <p class="cv-desc">Working on Central AI.</p>
+        <p class="cv-desc">Building Central AI, an AI receptionist for clinics.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/wing_logo.png" alt="Wing Assistant"></div>
     </div>
@@ -60,7 +60,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <span class="cv-badge comp">Competition</span>
         <p class="cv-company">Cal Hacks 13.0</p>
         <p class="cv-meta">Oct 2026</p>
-        <p class="cv-desc">TBD</p>
+        <p class="cv-desc">Fun grind with a great team on little sleep. Fell short, but fun experience with 0 regrets!</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/ai_hackathon_logo.jpeg" alt="Cal Hacks 13.0"></div>
     </div>
@@ -140,7 +140,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <span class="cv-badge comp">Competition</span>
         <p class="cv-company">UC Berkeley AI Hackathon 2026</p>
         <p class="cv-meta">Jun 2026</p>
-        <p class="cv-desc">Fun event.</p>
+        <p class="cv-desc">Focused on networking more than the competition.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/ai_hackathon_logo.jpeg" alt="UC Berkeley AI Hackathon"></div>
     </div>
@@ -167,7 +167,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <span class="cv-badge research">Research</span>
         <p class="cv-company">UCSF Yang Lab</p>
         <p class="cv-role">Data Science Researcher</p>
-        <p class="cv-meta">Advised by Dr. Hanxue Gu · May 2026 – Sep 2026</p>
+        <p class="cv-meta">Advised by Dr. Hanxue Gu · Jul 2026 – Sep 2026</p>
         <p class="cv-desc">Co-authored <a href="https://neurips.cc/virtual/2026/loc/sydney/177187" target="_blank" rel="noopener">CohortFlow</a>, accepted to the NeurIPS 2026 GenAI4Health Workshop: an AI agent that finds trial-eligible patients and lets clinicians change criteria mid-run without restarting.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/ucsf_logo.jpg" alt="UCSF"></div>
@@ -210,7 +210,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <p class="cv-company">FactGrid Cuneiform</p>
         <p class="cv-role">NLP Researcher</p>
         <p class="cv-meta">Advised by Dr. Adam Anderson · Jan 2026 – May 2026</p>
-        <p class="cv-desc">TBD</p>
+        <p class="cv-desc">Data Discovery project on fixing errors in scanned Akkadian texts.</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/factgrid_cuneiform_logo.jpeg" alt="FactGrid Cuneiform"></div>
     </div>
