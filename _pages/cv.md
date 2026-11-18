@@ -27,7 +27,7 @@ A running record of everything that shaped my time at Berkeley, big and small.
         <span class="cv-badge edu">Degree</span>
         <p class="cv-company">University of California, Berkeley</p>
         <p class="cv-role">B.A. in Data Science</p>
-        <p class="cv-meta">August 2025 - May 2029</p>
+        <p class="cv-meta">Aug 2025 – May 2029</p>
       </div>
       <div class="cv-logo-box"><img src="/assets/images/cv_logos/berkeley_logo.webp" alt="UC Berkeley"></div>
     </div>
